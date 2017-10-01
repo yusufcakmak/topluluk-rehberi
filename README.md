@@ -13,6 +13,10 @@ Kısaca, Google Teknolojileri ile ilgilenen geliştiricilerin oluşturduğu topl
 
 Hangi şehirlerde GDG bulunduğunu görmek ve onlarla iletişime geçmek için global [GDG](https://developers.google.com/groups/directory/?hl=tr) websitesini kullanabilirsiniz.
 
+#### GDG Istanbul
+[Meetup](https://www.meetup.com/tr-TR/GDGIstanbul/)
+
+[Slack](http://gdgistanbul-slack.herokuapp.com/)
 			
 ## <a name="wtm"></a> WTM
 								
@@ -20,10 +24,16 @@ Women Techmakers (WTM) daha fazla kadının bilim, teknoloji, mühendislik ve be
 
 Hangi şehirlerde WTM bulunduğunu görmek ve onlarla iletişime geçmek için global [WTM](https://www.womentechmakers.com/directory) websitesini kullanabilirsiniz.
 
+#### WTM Istanbul
+[Meetup](https://www.meetup.com/tr-TR/GDGIstanbul/)
+
+[Slack](http://gdgistanbul-slack.herokuapp.com/)
+
 
 ## <a name="androidistanbul"></a> Android Istanbul
 
 Çoğunlukla Istanbul'da yaşayan Android geliştiricilerin oluşturduğu topluluk. Herhangi bir katılım kısıtlamaması bulunmamakta isteyen kişiler meetup aracılığı ile etkinliklere katılabilmekte. 
 								
 [Meetup](https://www.meetup.com/tr-TR/Android-Istanbul-Meetup/) 
+
 [Slack](https://www.meetup.com/tr-TR/Android-Istanbul-Meetup/)
