@@ -9,6 +9,7 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 *   **[WTM (Women Tech Makers)](#wtm)**
 *   **[Android Istanbul](#androidistanbul)**
 *   **[Software Craftsmanship Turkey](#softwarecraftsmanshipturkey)**
+*   **[Frontend İstanbul](#frontendistanbul)**
 
 
 
@@ -51,5 +52,14 @@ Bizler, kaliteli yazılımların ancak kaliteli yazılımcılar tarafından yaz�
 [Meetup](https://www.meetup.com/tr-TR/Software-Craftsmanship-Turkey/?chapter_analytics_code=UA-86718424-1) 
 
 [Website](http://www.scturkey.org/)
+
+## <a name="frontendistanbul"></a> Frontend İstanbul
+
+Frontend alanındaki teknolojilerin gelişim süreçlerini yakından takip eden ve çalıştığı uygulamalarda uygulayan bir topluluk oluşturmak amacıyla yola çıkan ve hep birlikte daha iyiyi hiç bıkmadan arayan birkaç gönüllüyüz. Grubu kurma amacımız daha fazla bilgi ve kaynağa hep birlikte erişmek ve aynı zamanda üreten bireyler olarak sektörel gelişimimizi daha ileriye taşımaktır.
+
+[Meetup](https://www.meetup.com/tr-TR/Frontend-Istanbul/) 
+
+
+
 
 
