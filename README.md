@@ -13,7 +13,7 @@ Kısaca, Google Teknolojileri ile ilgilenen geliştiricilerin oluşturduğu topl
 Hangi şehirlerde GDG bulunduğunu görmek ve onlarla iletişime geçmek için global [GDG](https://developers.google.com/groups/directory/?hl=tr) websitesini kullanabilirsiniz.
 
 			
-## <a name="wtmistanbul"></a> WTM Istanbul
+## <a name="wtm"></a> WTM
 								
 Women Techmakers (WTM) daha fazla kadının bilim, teknoloji, mühendislik ve benzeri sektörlerde yer alması ve paylaşımda bulunmasını teşvik etmek amacıyla etkinlikler düzenleyen ve Google tarafından desteklenen uluslararası bir topluluktur.
 
