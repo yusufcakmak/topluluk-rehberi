@@ -60,6 +60,13 @@ Frontend alanındaki teknolojilerin gelişim süreçlerini yakından takip eden 
 [Meetup](https://www.meetup.com/tr-TR/Frontend-Istanbul/) 
 
 
+## <a name="pythonistanbul"></a> Python Istanbul
+
+İstanbul’daki Python programcıları topluluğu olarak 2010 yılından bu yana çeşitli etkinlikler düzenledik. Yaptığımız etkinliklere sunumlar sayfasından göz atabilirsiniz.
+
+[Meetup](https://www.meetup.com/tr-TR/python-istanbul/) 
+
+
 
 
 
