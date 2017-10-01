@@ -10,6 +10,7 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 *   **[Android Istanbul](#androidistanbul)**
 *   **[Software Craftsmanship Turkey](#softwarecraftsmanshipturkey)**
 *   **[Frontend İstanbul](#frontendistanbul)**
+*   **[Python Istanbul](#pythonistanbul)**
 
 
 
