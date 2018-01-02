@@ -12,7 +12,7 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 *   **[Frontend İstanbul](#frontendistanbul)**
 *   **[Python Istanbul](#pythonistanbul)**
 *   **[Istanbul Coders](#istanbulcoders)**
-
+*   **[Ruby Türkiye](#rubyturkiye)**
 
 ## <a name="gdg"></a> GDG
 
@@ -74,3 +74,12 @@ Yazılım geliştirme hakkında tartışmak, bilgi paylaşmak ve çalışmak iç
 [Meetup](https://www.meetup.com/Istanbul-Hackers/)
 
 [Website](http://istanbulcoders.org/) 
+
+## <a name="rubyturkiye"></a> Ruby Türkiye
+Türkiye'deki Ruby programcıları ve Ruby severler topluluğudur. Ruby ile program yazan ve ilgilenen herkesi bir araya getirmek ve belli bir bilinç oluşturmak adına çalışmaktadır.
+
+[Website](http://www.rubyturkiye.org/)
+
+[Meetup](https://www.meetup.com/Ruby-Turkiye/?_cookie-check=IR4xoTy_aeSrwvlO)
+
+[Twitter](https://twitter.com/ruby_turkiye)
