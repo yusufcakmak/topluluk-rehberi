@@ -14,6 +14,7 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 *   **[Istanbul Coders](#istanbulcoders)**
 *   **[Ruby Türkiye](#rubyturkiye)**
 *   **[Codefiction](#codefiction)**
+*   **[İstanbul PHP](#istanbulphp)**
 
 
 ## <a name="gdg"></a> GDG
@@ -98,3 +99,11 @@ Türkiye'de yazılım kalitesinin iyi olmamasından şikayetçi olan yazılımc�
 [Website](http://codefiction.tech/) | [Twitter](https://twitter.com/codefictiontech)
 
 [Podcast](https://soundcloud.com/codefiction)
+
+## <a name="istanbulphp"></a> İstanbul PHP
+
+PHP ve ekosistemine hitap ediyor 2014 yılından beri her ay Meetup, Eğitim ve yılda bir kez PHPKonf adında Türkiye'nin en büyük yazılım konferanslarından birini düzenliyoruz.
+
+[Meetup](https://www.meetup.com/IstanbulPHP/)
+
+[Twitter](https://twitter.com/istanbulphp)
