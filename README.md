@@ -17,6 +17,7 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 *   **[İstanbul PHP](#istanbulphp)**
 *   **[Hackathon Turkiye](#hackathonturkiye)**
 *   **[2Friday Hackathon](#2Friday)**
+*   **[NSIstanbul](#nsistanbul)**
 
 
 ## <a name="gdg"></a> GDG
@@ -140,3 +141,17 @@ Son zamanlarda ülkemizde hızla yaygınlaşan hackathonların daha geniş kitle
 [Twitter](https://twitter.com/_2friday)
 
 [Youtube](https://www.youtube.com/channel/UCDijlt-IYXjAD57V1ux__RA)
+
+## <a name="nsistanbul"></a> NSIstanbul
+
+NSIstanbul, iOS ve Mac OS X programlama üzerine aylık buluşmalar düzenleyen, maddi beklentisi olmayan bağımsız bir topluluktur.
+
+[Website](http://nsistanbul.com/)
+
+[Medium](https://medium.com/nsistanbul)
+
+[Twitter](https://twitter.com/NS_Istanbul)
+
+[Youtube](https://www.youtube.com/channel/UC4EltqGnSy6t5AjMficZv5w)
+
+[Slack](http://slack.nsistanbul.com/)
