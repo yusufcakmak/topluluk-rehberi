@@ -58,7 +58,7 @@ Hangi şehirlerde WTM bulunduğunu görmek ve onlarla iletişime geçmek için g
 
 [Meetup](https://www.meetup.com/tr-TR/Android-Istanbul-Meetup/)
 
-[Slack](https://www.meetup.com/tr-TR/Android-Istanbul-Meetup/)
+[Slack](http://androidistanbul.herokuapp.com/)
 
 
 ## <a name="softwarecraftsmanshipturkey"></a> Software Craftsmanship Turkey
