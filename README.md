@@ -144,7 +144,7 @@ Son zamanlarda ülkemizde hızla yaygınlaşan hackathonların daha geniş kitle
 
 ## <a name="nsistanbul"></a> NSIstanbul
 
-NSIstanbul, iOS ve Mac OS X programlama üzerine aylık buluşmalar düzenleyen, maddi beklentisi olmayan bağımsız bir topluluktur.
+NSIstanbul, iOS ve Mac OS X programlama üzerine aylık ve haftalık buluşmalar düzenleyen, maddi beklentisi olmayan bağımsız bir topluluktur.
 
 [Website](http://nsistanbul.com/)
 
