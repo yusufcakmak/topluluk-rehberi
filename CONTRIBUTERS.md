@@ -7,3 +7,4 @@ Repoya katkıda bulunan herkese teşekkür ediyorum. Bu katkıyı sağlayan geli
 * [Ender Ahmet Yurt](https://github.com/enderahmetyurt)
 * [Mert Susur](https://github.com/msusur)
 * [Emir Karşıyakalı](https://github.com/emir)
+* [Özcan Akkoca](https://github.com/ozcanakkoca3401)
