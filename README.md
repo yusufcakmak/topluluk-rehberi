@@ -167,3 +167,24 @@ NSIstanbul, iOS ve Mac OS X programlama üzerine aylık ve haftalık buluşmalar
 [Youtube](https://www.youtube.com/channel/UC4EltqGnSy6t5AjMficZv5w)
 
 [Slack](http://slack.nsistanbul.com/)
+
+
+## <a name="Devnot"></a> Devnot
+
+Gönüllü yazılım geliştiricilerden oluşan, ücretsiz eğitimler, konferanslar ve buluşmalar düzenleyerek yazılım sektörünün gelişimine katkı sağlayan bir topluluktur. 2006 yılında Nedirtv'yi kuran ekip tarafından 2014 yılında yeni bir oluşum olarak ortaya çıkmıştır. Aynı zamanda devnot.com adresinde güncel konuları ele alan yazılar ve haberler yayınlamakta, Youtube kanalından sunum, söyleşi ve yazılım ofisleri tanıtım videoları yayınlanmaktadır.
+
+[Website](http://www.devnot.com)
+
+[Meetup](https://www.meetup.com/Devnot-Yazilimci-Bulusmalari/)
+
+[Youtube](https://www.youtube.com/c/devnottv)
+
+[Twitter](https://twitter.com/devnot_)
+
+
+## <a name="Devnotİstanbul"></a> Dotnet İstanbul
+
+İstanbul'da C# dilini kullanarak .Net Framework ve .Net Core platformlarında yazılım geliştirenler için eğitimler düzenleyen bir topluluktur. Geçtiğimiz aylarda yeni kurulan topluluk eğitimlerini genellikle Cumartesi günleri düzenlemektedir.
+
+[Meetup](https://www.meetup.com/dotnet-istanbul/)
+[Twitter](https://twitter.com/dotnet_istanbul)
