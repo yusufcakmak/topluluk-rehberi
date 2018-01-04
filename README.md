@@ -171,7 +171,7 @@ NSIstanbul, iOS ve Mac OS X programlama üzerine aylık ve haftalık buluşmalar
 [Slack](http://slack.nsistanbul.com/)
 
 
-## <a name="Devnot"></a> Devnot
+## <a name="devnot"></a> Devnot
 
 Gönüllü yazılım geliştiricilerden oluşan, ücretsiz eğitimler, konferanslar ve buluşmalar düzenleyerek yazılım sektörünün gelişimine katkı sağlayan bir topluluktur. 2006 yılında Nedirtv'yi kuran ekip tarafından 2014 yılında yeni bir oluşum olarak ortaya çıkmıştır. Aynı zamanda devnot.com adresinde güncel konuları ele alan yazılar ve haberler yayınlamakta, Youtube kanalından sunum, söyleşi ve yazılım ofisleri tanıtım videoları yayınlanmaktadır.
 
