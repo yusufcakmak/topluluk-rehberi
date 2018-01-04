@@ -18,6 +18,8 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 *   **[Hackathon Turkiye](#hackathonturkiye)**
 *   **[2Friday Hackathon](#2Friday)**
 *   **[NSIstanbul](#nsistanbul)**
+*   **[Devnot](#devnot)**
+*   **[Dotnetİstanbul](#Dotnetİstanbul)**
 
 
 ## <a name="gdg"></a> GDG
@@ -182,7 +184,7 @@ Gönüllü yazılım geliştiricilerden oluşan, ücretsiz eğitimler, konferans
 [Twitter](https://twitter.com/devnot_)
 
 
-## <a name="Devnotİstanbul"></a> Dotnet İstanbul
+## <a name="Dotnetİstanbul"></a> Dotnetİstanbul
 
 İstanbul'da C# dilini kullanarak .Net Framework ve .Net Core platformlarında yazılım geliştirenler için eğitimler düzenleyen bir topluluktur. Geçtiğimiz aylarda yeni kurulan topluluk eğitimlerini genellikle Cumartesi günleri düzenlemektedir.
 
