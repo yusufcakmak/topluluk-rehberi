@@ -40,6 +40,11 @@ Hangi şehirlerde GDG bulunduğunu görmek ve onlarla iletişime geçmek için g
 
 [Slack] Yakında public olacak!
 
+#### GDG Kocaeli
+[Meetup](https://www.meetup.com/GDGKocaeli/)
+
+[Slack] Yakında aktif!
+
 ## <a name="wtm"></a> WTM
 
 Women Techmakers (WTM) daha fazla kadının bilim, teknoloji, mühendislik ve benzeri sektörlerde yer alması ve paylaşımda bulunmasını teşvik etmek amacıyla etkinlikler düzenleyen ve Google tarafından desteklenen uluslararası bir topluluktur.
