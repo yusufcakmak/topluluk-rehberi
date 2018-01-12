@@ -47,6 +47,11 @@ Hangi şehirlerde GDG bulunduğunu görmek ve onlarla iletişime geçmek için g
 
 [Slack] Yakında aktif!
 
+#### GDG Eskisehir
+[Meetup](https://www.meetup.com/gdgeskisehir/)
+
+[Slack](http://gdgeskisehir.herokuapp.com/)
+
 ## <a name="wtm"></a> WTM
 
 Women Techmakers (WTM) daha fazla kadının bilim, teknoloji, mühendislik ve benzeri sektörlerde yer alması ve paylaşımda bulunmasını teşvik etmek amacıyla etkinlikler düzenleyen ve Google tarafından desteklenen uluslararası bir topluluktur.
@@ -62,6 +67,12 @@ Hangi şehirlerde WTM bulunduğunu görmek ve onlarla iletişime geçmek için g
 [Meetup](https://www.meetup.com/tr-TR/GDGAnkara)
 
 [Slack](https://gdg-ankara-slack.herokuapp.com/)
+
+#### WTM Eskisehir
+[Meetup](https://www.meetup.com/gdgeskisehir/)
+
+[Slack](http://gdgeskisehir.herokuapp.com/)
+
 
 ## <a name="androidistanbul"></a> Android Istanbul
 
