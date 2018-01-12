@@ -40,7 +40,7 @@ Hangi şehirlerde GDG bulunduğunu görmek ve onlarla iletişime geçmek için g
 #### GDG Ankara
 [Meetup](https://www.meetup.com/tr-TR/GDGAnkara)
 
-[Slack] Yakında public olacak!
+[Slack](https://gdg-ankara-slack.herokuapp.com/)
 
 #### GDG Kocaeli
 [Meetup](https://www.meetup.com/GDGKocaeli/)
@@ -61,7 +61,7 @@ Hangi şehirlerde WTM bulunduğunu görmek ve onlarla iletişime geçmek için g
 #### WTM Ankara
 [Meetup](https://www.meetup.com/tr-TR/GDGAnkara)
 
-[Slack] Yakında public olacak!
+[Slack](https://gdg-ankara-slack.herokuapp.com/)
 
 ## <a name="androidistanbul"></a> Android Istanbul
 
