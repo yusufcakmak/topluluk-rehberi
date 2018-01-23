@@ -55,6 +55,11 @@ Hangi şehirlerde GDG bulunduğunu görmek ve onlarla iletişime geçmek için g
 
 [Slack](http://gdgeskisehir.herokuapp.com/)
 
+#### GDG Antalya
+[Meetup](https://www.meetup.com/GDGAntalya/)
+
+[Slack](https://communityinviter.com/apps/gdgantalya/gdgantalya)
+
 ## <a name="wtm"></a> WTM
 
 Women Techmakers (WTM) daha fazla kadının bilim, teknoloji, mühendislik ve benzeri sektörlerde yer alması ve paylaşımda bulunmasını teşvik etmek amacıyla etkinlikler düzenleyen ve Google tarafından desteklenen uluslararası bir topluluktur.
