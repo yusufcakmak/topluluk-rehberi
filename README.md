@@ -48,7 +48,13 @@ Hangi şehirlerde GDG bulunduğunu görmek ve onlarla iletişime geçmek için g
 #### GDG Kocaeli
 [Meetup](https://www.meetup.com/GDGKocaeli/)
 
-[Slack] Yakında aktif!
+[Slack](http://gdgkocaeli-slack.herokuapp.com/)
+
+[Twitter](https://twitter.com/gdgkocaeli)
+
+[Facebook](https://www.facebook.com/kocaeligdg/)
+
+[İnstagram](https://www.instagram.com/gdgkocaeli/)
 
 #### GDG Eskisehir
 [Meetup](https://www.meetup.com/gdgeskisehir/)
@@ -81,6 +87,16 @@ Hangi şehirlerde WTM bulunduğunu görmek ve onlarla iletişime geçmek için g
 
 [Slack](http://gdgeskisehir.herokuapp.com/)
 
+#### WTM Kocaeli
+[Meetup](https://www.meetup.com/GDGKocaeli/)
+
+[Slack](http://gdgkocaeli-slack.herokuapp.com/)
+
+[Twitter](https://twitter.com/WtmKocaeli)
+
+[Facebook](https://www.facebook.com/kocaeligdg/)
+
+[İnstagram](https://www.instagram.com/gdgkocaeli/)
 
 ## <a name="androidistanbul"></a> Android Istanbul
 
