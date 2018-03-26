@@ -127,6 +127,14 @@ Bizler, kaliteli yazılımların ancak kaliteli yazılımcılar tarafından yaz�
 
 [Website](http://www.scturkey.org/)
 
+[GitHub](https://github.com/scturkey)
+
+[Twitter](https://twitter.com/scturkey)
+
+[Instagram](https://www.instagram.com/scturkeycommunity)
+
+[Youtube](https://www.youtube.com/channel/UClleXc0jXi-LSK5msUordJg)
+
 ## <a name="frontendistanbul"></a> Frontend İstanbul
 
 Frontend alanındaki teknolojilerin gelişim süreçlerini yakından takip eden ve çalıştığı uygulamalarda uygulayan bir topluluk oluşturmak amacıyla yola çıkan ve hep birlikte daha iyiyi hiç bıkmadan arayan birkaç gönüllüyüz. Grubu kurma amacımız daha fazla bilgi ve kaynağa hep birlikte erişmek ve aynı zamanda üreten bireyler olarak sektörel gelişimimizi daha ileriye taşımaktır.
