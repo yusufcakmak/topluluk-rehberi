@@ -28,6 +28,8 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 *   **[Istanbul DevOps Turkey](#istanbuldevopsturkey)**
 *   **[Serverless Turkey](#serverlessturkey)**
 *   **[Bursa I/O](#bursaio)**
+*   **[Kocaeli Bilgisayar Kulübü](#KOUBK)**
+*   **[KOÜ IEEE Computer Society](#KOUIEEECS)**
 
 
 ## <a name="gdg"></a> GDG
@@ -360,3 +362,15 @@ Bursa I/O; developer ve maker ruhlu insanların bir araya geldiği bilgi paylaş
 [Slack](http://bursaio.slack.com/)
 
 [Medium](https://medium.com/bursa-i-o)
+
+## <a name="KOUBK"></a> Kocaeli Üniversitesi Bilgisayar Kulübü
+KOUBK; 1995 yılından beri; sektörün ve kariyer hedefi olan öğrencilerin İzmit'teki buluşma noktası olan KOUBK, birçok farklı topluluğun oluşmasında ktif rol almış, yüzlerce insan yetiştirmiş, halen Kocaeli Üniversitesi Umuttepe Kampüsü içerisinde faaliyetlerine devam etmekte olan bir öğrenci topluluğudur.
+[Instagram](https://www.instagram.com/koubk/)
+
+[Facebook](https://www.facebook.com/KouBilgisayar)
+
+## <a name="KOUIEEECS"></a> IEEE Kocaeli Üniversitesi Computer Society
+Uluslararası mühendislik kuruluşu olan IEEE (Institute of Engineering for Everyone Else)'nin Kocaeli Üniversitesi Mühendislik Fakültesi Dekanlığı altında bulunan IEEE KOÜ Öğrenci Kolunun 9 adet komitesinden biri olan Computer Society, tarif etmekte cidden zorlanılan bir isime sahip. İzmit'te GDG Kocaeli ve KOUBK ile birlikte bilişim sektöründen profesyonel kimlikleri öğrenciler ile buluşturup, kariyer ve teknik bilgi aktarımı konusunda çalışmaktadır. Ayrıca geleneksel Hale getirdikleri F5 Days isimli etkinliklerine her yıl Türkiye'ni bir çok yerinden katılım sağlanmaktadır.
+[Instagram](https://www.instagram.com/ieeekoucs/)
+
+[Facebook](https://www.facebook.com/ieeetrcs/)
