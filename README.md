@@ -27,7 +27,7 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 *   **[Sakarya Coders](#sakaryacoders)**
 *   **[Istanbul DevOps Turkey](#istanbuldevopsturkey)**
 *   **[Serverless Turkey](#serverlessturkey)**
-*   **[Bursa I/0](#bursaio)**
+*   **[Bursa I/O](#bursaio)**
 
 
 ## <a name="gdg"></a> GDG
