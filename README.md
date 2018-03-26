@@ -27,6 +27,7 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 *   **[Sakarya Coders](#sakaryacoders)**
 *   **[Istanbul DevOps Turkey](#istanbuldevopsturkey)**
 *   **[Serverless Turkey](#serverlessturkey)**
+*   **[Bursa I/0](#bursaio)**
 
 
 ## <a name="gdg"></a> GDG
@@ -345,3 +346,17 @@ Bu grup AWS Lambda, API Gateway, Microsoft Azure Functions, Apache OpenWhisk, Go
 [Twitter](https://twitter.com/serverlesstr)
 
 [Blog](https://medium.com/serverless-turkey)
+
+## <a name="bursaio"></a> Bursa I/O
+
+Bursa I/O; developer ve maker ruhlu insanların bir araya geldiği bilgi paylaşım ve çalışma grubudur.
+
+[Meetup](https://www.meetup.com/tr-TR/Bursa-I-O-Bulusmalari/)
+
+[Instagram](https://www.instagram.com/bursaioofficial/)
+
+[Facebook](https://www.facebook.com/groups/bursaio/)
+
+[Slack](http://bursaio.slack.com/)
+
+[Medium](https://medium.com/bursa-i-o)
