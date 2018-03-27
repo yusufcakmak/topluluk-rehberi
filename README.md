@@ -13,6 +13,7 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 *   **[Frontend İstanbul](#frontendistanbul)**
 *   **[Python Istanbul](#pythonistanbul)**
 *   **[Istanbul Coders](#istanbulcoders)**
+*   **[Alt.Net Türkiye](#altdotnetturkiye)**
 *   **[Ruby Türkiye](#rubyturkiye)**
 *   **[Codefiction](#codefiction)**
 *   **[İstanbul PHP](#istanbulphp)**
@@ -171,6 +172,17 @@ Yazılım geliştirme hakkında tartışmak, bilgi paylaşmak ve çalışmak iç
 [Meetup](https://www.meetup.com/Istanbul-Hackers/)
 
 [Website](http://istanbulcoders.org/)
+
+## <a name="altdotnetturkiye"></a> Alt.Net Türkiye
+
+Burada Türkiye'deki yazilimcilar Türkçe olarak altdotnet prensipleri ve genel olarak .NET le ilgili üst düzey bilgi paylasiminda bulunurlar. Pragmatik olmak ve sürekli sorgulamak bu prensiplerin temelini olusturur, bu temelde ana akim (mainstream) yazilimcilardan farklilik gözetir ve Continuous Improvement (Sürekli Gelişim) e inanir. 
+
+Basit yazilim hatalari ara sira grubumuzda yer alsa da msdn gruplari, newsgroup lar ve stackoverflow bu tür işler için cok daha uygun yerlerdir. 
+
+[Google Grup](https://groups.google.com/forum/#!forum/altdotnetturkiye)
+
+[Github](https://github.com/altdotnetturkiye)
+
 
 
 ## <a name="rubyturkiye"></a> Ruby Türkiye
