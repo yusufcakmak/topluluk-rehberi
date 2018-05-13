@@ -17,6 +17,7 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 *   **[Ruby Türkiye](#rubyturkiye)**
 *   **[Codefiction](#codefiction)**
 *   **[İstanbul PHP](#istanbulphp)**
+*   **[Ankara PHP](#ankaraphp)**
 *   **[Hackathon Turkiye](#hackathonturkiye)**
 *   **[2Friday Hackathon](#2Friday)**
 *   **[NSIstanbul](#nsistanbul)**
@@ -223,6 +224,18 @@ PHP ve ekosistemine hitap ediyor 2014 yılından beri her ay Meetup, Eğitim ve 
 [Meetup](https://www.meetup.com/IstanbulPHP/)
 
 [Twitter](https://twitter.com/istanbulphp)
+
+## <a name="ankaraphp"></a> Ankara PHP
+
+AnkaraPHP grubu olarak her ayın ilk cumartesi günü meetuplar yapıyoruz. PHP ve PHP çevresindeki teknolojilerle ilgilenen, ilgilenmiş ya da ilgilenmek isteyenleri bir araya getiriyoruz. 
+
+[Website](http://ankaraphp.github.io/)
+
+[Meetup](https://www.meetup.com/Ankara-PHP-Meetup/)
+
+[Facebook](https://www.facebook.com/groups/herayinilkcumartesi/?ref=bookmarks)
+
+[Twitter](https://twitter.com/ankaraphp)
 
 ## <a name="hackathonturkiye"></a> Hackathon Turkiye
 
