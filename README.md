@@ -7,31 +7,45 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 
 *   **[2Friday Hackathon](#2Friday)**
 *   **[Alt.Net Türkiye](#altdotnetturkiye)**
+*   **[Akademik Bilişim](#akademikbilisim)**
 *   **[Android Istanbul](#androidistanbul)**
 *   **[Ankara PHP](#ankaraphp)**
 *   **[Ankara University Cyber Club](#aucc)**
+*   **[BİLMÖK](#bilmok)**
+*   **[BTG DAY](#btgday)**
 *   **[Bursa I/O](#bursaio)**
+*   **[canyoupwn.me](#canyoupwnme)**
 *   **[Codefiction](#codefiction)**
 *   **[Coders Antalya](#codersantalya)**
 *   **[Deep Learning Türkiye](#deeplearningturkiye)**
 *   **[Devnot](#devnot)**
+*   **[Django Girls](#djangogirls)**
 *   **[Dotnetİstanbul](#Dotnetİstanbul)**
 *   **[Frontend İstanbul](#frontendistanbul)**
 *   **[GDG (Google Developer Groups)](#gdg)**
 *   **[Hackathon Turkiye](#hackathonturkiye)**
+*   **[Hacktrick](#hacktrick)**
 *   **[inzva](#inzva)**
 *   **[Istanbul Coders](#istanbulcoders)**
 *   **[Istanbul DevOps Turkey](#istanbuldevopsturkey)**
 *   **[İstanbul PHP](#istanbulphp)**
+*   **[JavaScript Ankara](#jsankara)**
 *   **[Kocaeli Bilgisayar Kulübü](#KOUBK)**
 *   **[Kodluyoruz](#kodluyoruz)**
 *   **[KOÜ IEEE Computer Society](#KOUIEEECS)**
+*   **[laravel.istanbul](#laravelistanbul)**
+*   **[Mobile Monday Ankara](#momoankara)**
+*   **[Mustafa Akgül Özgür Yazılım Yaz Kampı](#lyk)**
 *   **[NSIstanbul](#nsistanbul)**
+*   **[Octosec](#octosec)**
+*   **[Özgür Web Günleri](#ozgurwebgunleri)**
+*   **[PaüSiber](#pausiber)**
 *   **[Python Istanbul](#pythonistanbul)**
 *   **[Ruby Türkiye](#rubyturkiye)**
 *   **[Sakarya Coders](#sakaryacoders)**
 *   **[Serverless Turkey](#serverlessturkey)**
 *   **[Software Craftsmanship Turkey](#softwarecraftsmanshipturkey)**
+*   **[WebEnd](#webend)**
 *   **[WTM (Women Tech Makers)](#wtm)**
 
 
@@ -55,6 +69,15 @@ Basit yazilim hatalari ara sira grubumuzda yer alsa da msdn gruplari, newsgroup 
 [Google Grup](https://groups.google.com/forum/#!forum/altdotnetturkiye)
 
 [Github](https://github.com/altdotnetturkiye)
+
+
+## <a name="akademikbilisim"></a> Akademik Bilişim
+
+Üniversitelerde bilgi teknolojileri konusunda ilgili grupları bir araya getirerek, bilgi teknolojilerinde ulusal altyapı, araştırma ve geliştirme, üretim, eğitim ve kullanım alanlarını tüm boyutlarıyla tanıtmak, tartışmak, birikimleri paylaşmak ve ortak politikalar oluşturmak amaçlarıyla Akademik Bilişim Konferansları dizisi 1999’dan bu yana düzenlenmektedir.
+
+[Website](http://ab.org.tr/)
+
+[Twitter](https://twitter.com/AkademikBilisim)
 
 
 ## <a name="androidistanbul"></a> Android Istanbul
@@ -86,7 +109,24 @@ Ankara University Cyber Club, Ekim 2016'da Ankara Üniversitesi Bilgisayar Mühe
 [Website](https://www.aucyberclub.org/)
 
 [Twitter](https://twitter.com/_aucc)
+
 [Ctftime](https://ctftime.org/team/32148)
+
+
+## <a name="bilmok"></a> BİLMÖK
+
+Bilgisayar Mühendisliği öğrencileri kongresi her yıl farklı bir üniversitenin bilgisayar mühendisliği bölümü ve/veya ilgili kulübü tarafından organize edilen Türkiye’nin en büyük öğrenci kongresidir.
+
+[Website](https://www.bilmok.org.tr/)
+
+[Twitter](https://twitter.com/bilmok)
+
+
+## <a name="btgday"></a> BTG DAY
+
+BTG DAY , Ankara Yıldırım Beyazıt Üniversitesi'nde faaliyet gösteren biz gönüllü öğrenciler tarafından organize edilen ve gelenekselleştirmeyi amaçladığımız bir etkinliktir.
+
+[Website](https://btg.aybucyber.club/)
 
 
 ## <a name="bursaio"></a> Bursa I/O
@@ -102,6 +142,17 @@ Bursa I/O; developer ve maker ruhlu insanların bir araya geldiği bilgi paylaş
 [Slack](http://bursaio.slack.com/)
 
 [Medium](https://medium.com/bursa-i-o)
+
+
+## <a name="canyoupwnme"></a> canyoupwn.me
+
+For CyberSecurity Researchers
+
+[Website](https://canyoupwn.me/)
+
+[Twitter](https://twitter.com/canyoupwnme)
+
+[Telegram](https://telegram.me/canyoupwnme)
 
 
 ## <a name="codefiction"></a> Codefiction
@@ -163,6 +214,41 @@ Gönüllü yazılım geliştiricilerden oluşan, ücretsiz eğitimler, konferans
 [Youtube](https://www.youtube.com/c/devnottv)
 
 [Twitter](https://twitter.com/devnot_)
+
+## <a name="djangogirls"></a> Django Girls
+
+Kadınlara yönelik ücretsiz programlama atölyesi
+İlk websitenizi bizimle birlikte yapmak ister misiniz?
+
+Nasıl websitesi yapılacağını öğrenmek istiyorsanız size iyi haberlerimiz var! Yeni başlamak isteyenler için tek günlük bir atölye düzenliyoruz!
+
+Erkek ya da kadın eğer dizüstü bir bilgisayarınız varsa etkinliklere başvurabilirsiniz! 
+
+
+### DjangoGirls Ankara
+[Website](https://djangogirls.org/ankara/)
+
+[Twitter](https://twitter.com/djangogirlsANK)
+
+#### DjangoGirls Eskişehir
+[Website](https://djangogirls.org/eskisehir/)
+
+[Twitter](https://twitter.com/djangogirlsesk)
+
+#### DjangoGirls Istanbul
+[Website](https://djangogirls.org/istanbul/)
+
+[Twitter](https://twitter.com/djangogirlsIst)
+
+#### DjangoGirls Kütahya
+[Website](https://djangogirls.org/kutahya/)
+
+[Twitter](https://twitter.com/djangokutahya)
+
+#### DjangoGirls Rize
+[Website](https://djangogirls.org/rize/)
+
+[Twitter](https://twitter.com/djangogirlsrize)
 
 
 ## <a name="Dotnetİstanbul"></a> Dotnetİstanbul
@@ -254,6 +340,13 @@ Son zamanlarda ülkemizde hızla yaygınlaşan hackathonların daha geniş kitle
 [Slack](https://hackathon-turkey.slack.com)
 
 
+## <a name="hacktrick"></a> Hacktrick
+
+Son zamanlarda ülkemizde hızla yaygınlaşan hackathonların daha geniş kitlelere ulaşabilmeleri için bunların duyurularını yapıyor, aynı zamanda hackathonlar ile ilgili yazılarımızı medium üzerinden paylaşıyoruz.
+
+[Twitter](https://twitter.com/hacktrickconf)
+
+
 ## <a name="inzva"></a> inzva
 
 inzva, the sanctuary of the Turkish hacker community.
@@ -300,6 +393,15 @@ PHP ve ekosistemine hitap ediyor 2014 yılından beri her ay Meetup, Eğitim ve 
 [Twitter](https://twitter.com/istanbulphp)
 
 
+## <a name="jsankara"></a> JavaScript Ankara
+
+Javascript, frontend topluluğu. Web ve Mobil dünyasındaki gelişmeleri konuşmak ve anlatmak için her ay toplanıyoruz.
+
+[Meetup](https://www.meetup.com/Javascript-Ankara/)
+
+[Twitter](https://twitter.com/JS_Ankara)
+
+
 ## <a name="KOUBK"></a> Kocaeli Üniversitesi Bilgisayar Kulübü
 KOUBK; 1995 yılından beri; sektörün ve kariyer hedefi olan öğrencilerin İzmit'teki buluşma noktası olan KOUBK, birçok farklı topluluğun oluşmasında ktif rol almış, yüzlerce insan yetiştirmiş, halen Kocaeli Üniversitesi Umuttepe Kampüsü içerisinde faaliyetlerine devam etmekte olan bir öğrenci topluluğudur.
 [Instagram](https://www.instagram.com/koubk/)
@@ -326,9 +428,38 @@ Kodluyoruz, ülkemizdeki gençlerin geleceklerine yüksek değer katacak kodlama
 
 ## <a name="KOUIEEECS"></a> IEEE Kocaeli Üniversitesi Computer Society
 Uluslararası mühendislik kuruluşu olan IEEE (Institute of Engineering for Everyone Else)'nin Kocaeli Üniversitesi Mühendislik Fakültesi Dekanlığı altında bulunan IEEE KOÜ Öğrenci Kolunun 9 adet komitesinden biri olan Computer Society, tarif etmekte cidden zorlanılan bir isime sahip. İzmit'te GDG Kocaeli ve KOUBK ile birlikte bilişim sektöründen profesyonel kimlikleri öğrenciler ile buluşturup, kariyer ve teknik bilgi aktarımı konusunda çalışmaktadır. Ayrıca geleneksel Hale getirdikleri F5 Days isimli etkinliklerine her yıl Türkiye'ni bir çok yerinden katılım sağlanmaktadır.
+
 [Instagram](https://www.instagram.com/ieeekoucs/)
 
 [Facebook](https://www.facebook.com/ieeetrcs/)
+
+
+## <a name="laravelistanbul"></a> laravel.istanbul
+
+İstanbul'daki Laravel geliştiricileri, geliştirmeye heveslileri ve bi görelim bakalımcılarını bir araya getiriyoruz!
+Her ay gerçekleştirmeyi planladığımız buluşmalarda Laravel'i tanıtmaya, tanıyanlardan ve kullananlardan dinlemeye, çalıştaylar düzenlemeye ve birbirimizi tanıyıp eğlenmeye çalışacağız.
+
+[Website](http://laravel.istanbul/)
+
+[Meetup](https://www.meetup.com/laravelistanbul/)
+
+[Twitter](https://twitter.com/laravelistanbul)
+
+
+## <a name="momoankara"></a> Mobile Monday Ankara
+
+Her ayın ilk Pazartesi günü Mobili konuşmak için Ankara'da bir araya geliyoruz. Seni de bekleriz.
+
+[Twitter](https://twitter.com/momoankara)
+
+
+## <a name="lyk"></a> Mustafa Akgül Özgür Yazılım Yaz Kampı
+
+Mustafa Akgül Özgür Yazılım Yaz Kampı
+
+[Website](https://kamp.linux.org.tr)
+
+[Twitter](https://twitter.com/OzgurYazKampi)
 
 
 ## <a name="nsistanbul"></a> NSIstanbul
@@ -344,6 +475,39 @@ NSIstanbul, iOS ve Mac OS X programlama üzerine aylık ve haftalık buluşmalar
 [Youtube](https://www.youtube.com/channel/UC4EltqGnSy6t5AjMficZv5w)
 
 [Slack](http://slack.nsistanbul.com/)
+
+
+## <a name="octosec"></a> Octosec
+
+İlk olarak 2013 yılında Ankara Üniversitesi öğrencilerinin bir araya gelerek oluşturduğu Octosec, zamanla kabına sığmayıp farklı üniversitelerden öğrencileri de bünyesine katmıştır. Sonraki dönemlerde ekibe dahil olan ve ayrılan kişilerle günümüzdeki haliyle, üniversite bağımsız gönüllü bir topluluk olmuştur.
+
+[Website](http://octosec.net/)
+
+[Twitter](https://twitter.com/octosec)
+
+
+## <a name="ozgurwebgunleri"></a> Özgür Web Günleri
+
+Özgür Web Teknolojileri Günleri
+Linux Kullanıcıları Derneği tarafından yılda bir kez düzenlenir.
+Özgür web teknolojileri ile ilgilenen herkesin buluşma yeridir.
+Toplumun her kesimine uygun düzeyde, tanıtıcı ve teknik seminerler yapılır.
+Organizasyonlar, kamu kuruluşları ve özel sektörden ilgili şirketler stand açar, ürün ve hizmetlerini tanıtır.
+
+[Website](https://ozgurwebgunleri.org.tr/2017/)
+
+[Twitter](https://twitter.com/ozgurwebgunleri)
+
+
+## <a name="pausiber"></a> PaüSiber
+
+Siber güvenlik farkındalığı oluşturma ve ülkenin ihtiyacı olan nitelikli iş gücünü üretme güdüsüyle birleşmiş insan topluluğuyuz.
+
+[Website](https://pausiber.xyz/)
+
+[Telegram](https://telegram.me/pausiber)
+
+[Twitter](https://twitter.com/SiberPau)
 
 
 ## <a name="pythonistanbul"></a> Python Istanbul
@@ -406,6 +570,15 @@ Bizler, kaliteli yazılımların ancak kaliteli yazılımcılar tarafından yaz�
 [Youtube](https://www.youtube.com/channel/UClleXc0jXi-LSK5msUordJg)
 
 
+## <a name="webend"></a> WebEnd
+
+Backend teknolojileri etkinliği.
+
+[Website](https://webend.org/)
+
+[Twitter](https://twitter.com/webendorg)
+
+
 ## <a name="wtm"></a> WTM
 
 Women Techmakers (WTM) daha fazla kadının bilim, teknoloji, mühendislik ve benzeri sektörlerde yer alması ve paylaşımda bulunmasını teşvik etmek amacıyla etkinlikler düzenleyen ve Google tarafından desteklenen uluslararası bir topluluktur.
@@ -437,6 +610,4 @@ Hangi şehirlerde WTM bulunduğunu görmek ve onlarla iletişime geçmek için g
 [Facebook](https://www.facebook.com/kocaeligdg/)
 
 [İnstagram](https://www.instagram.com/gdgkocaeli/)
-
-
 
