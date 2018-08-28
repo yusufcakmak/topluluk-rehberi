@@ -22,6 +22,7 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 *   **[Dotnetİstanbul](#Dotnetİstanbul)**
 *   **[Kodluyoruz](#kodluyoruz)**
 *   **[Deep Learning Türkiye](#deeplearningturkiye)**
+*   **[Bursa I/O](#bursaio)**
 
 
 ## <a name="gdg"></a> GDG
@@ -232,3 +233,34 @@ Topluluğumuz hakkındaki detaylı bilgiyi [buradan](https://medium.com/deep-lea
 [Website](http://deeplearningturkiye.com)
 
 [Mail](mailto:deeplearningturkiye@gmail.com)
+
+
+## <a name="bursaio"></a> Bursa I/O
+
+Bursa I/O, geliştirme ve kodlamaya ilgili insanların bir araya geldiği bilgi paylaşma ve çalışma grubudur. İki haftada bir buluşmaları vardır. Dönemsel olarak atölyeler yapar. Podcast kanalı bulunur.
+
+Daha önce Coursera'daki Andrew Ng dersleri üzerinden derin öğrenme atölyesi ve android cihaz erişimi, mqtt üzerinden sensör kontrolü gibi uçtan uca yaklaşım sunan bir IoT atölyesi yapıldı.
+
+Detaylı bilgileri [websitemiz](http://www.bursaio.com/) üzerinden erişebilirsiniz.
+
+
+[Slack](https://bursaio.slack.com/)
+
+[GitHub](https://github.com/bursaio)
+
+[Medium](https://medium.com/bursa-i-o)
+
+[Meetup](https://www.meetup.com/Bursa-I-O-Bulusmalari/)
+
+[Facebook](https://www.facebook.com/groups/bursaio/)
+
+[Instagram](https://www.instagram.com/bursaioofficial/)
+
+[Website](http://deeplearningturkiye.com)
+
+[Mail](mailto:deeplearningturkiye@gmail.com)
+
+[Youtube](https://www.youtube.com/channel/UC7K5UozYteG5y96En8FuVSw)
+
+[Spreaker](https://www.spreaker.com/user/bursaio)
+
