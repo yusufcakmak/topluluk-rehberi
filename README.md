@@ -241,7 +241,7 @@ Bursa I/O, geliştirme ve kodlamaya ilgili insanların bir araya geldiği bilgi 
 
 Daha önce Coursera'daki Andrew Ng dersleri üzerinden derin öğrenme atölyesi ve android cihaz erişimi, mqtt üzerinden sensör kontrolü gibi uçtan uca yaklaşım sunan bir IoT atölyesi yapıldı.
 
-Detaylı bilgileri [websitemiz](http://www.bursaio.com/) üzerinden erişebilirsiniz.
+Detaylı bilgilere [websitemiz](http://www.bursaio.com/) üzerinden erişebilirsiniz.
 
 
 [Slack](https://bursaio.slack.com/)
