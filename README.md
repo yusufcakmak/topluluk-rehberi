@@ -256,10 +256,6 @@ Detaylı bilgilere [websitemiz](http://www.bursaio.com/) üzerinden erişebilirs
 
 [Instagram](https://www.instagram.com/bursaioofficial/)
 
-[Website](http://deeplearningturkiye.com)
-
-[Mail](mailto:deeplearningturkiye@gmail.com)
-
 [Youtube](https://www.youtube.com/channel/UC7K5UozYteG5y96En8FuVSw)
 
 [Spreaker](https://www.spreaker.com/user/bursaio)
