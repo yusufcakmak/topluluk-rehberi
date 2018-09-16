@@ -8,9 +8,9 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 | Topluluk Adı  | Topluluk Sayfası | Sosyal Ağ | İletişim |
 |:-------------|:------------- |:-------------|:-------------|
 | [2Friday Hackathon](#2Friday) | [Website](https://github.com/2Friday/Hackathon) |[Twitter](https://twitter.com/_2friday) | [Website](https://github.com/2Friday/Hackathon)|
-| [Alt.Net Türkiye](#altdotnetturkiye) | | |
-| [Akademik Bilişim](#akademikbilisim) | | |
-| [Android Istanbul](#androidistanbul) | | |
+| [Alt.Net Türkiye](#altdotnetturkiye) |[Google Grup](https://groups.google.com/forum/#!forum/altdotnetturkiye) | | [Github](https://github.com/altdotnetturkiye))| --- |
+| [Akademik Bilişim](#akademikbilisim) |[Website](http://ab.org.tr/) | [Twitter](https://twitter.com/AkademikBilisim)| [Website](http://ab.org.tr/)|
+| [Android Istanbul](#androidistanbul) | [Meetup](https://www.meetup.com/tr-TR/Android-Istanbul-Meetup/)| ---| [Slack](http://androidistanbul.herokuapp.com/)|
 | [Ankara PHP](#ankaraphp) | | |
 | [Ankara University Cyber Club](#aucc) | | |
 | [BİLMÖK](#bilmok) | | |
