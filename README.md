@@ -1,9 +1,9 @@
 
 # Topluluk Rehberi
 
-| Topluluk Adı  | Meetup Sayfası | Sosyal Ağ | İletişim |
+| Topluluk Adı  | Topluluk Sayfası | Sosyal Ağ | İletişim |
 | ------------- |------------- |-------------| ------------- |
-| [2Friday Hackathon](#2Friday) | | |
+| [2Friday Hackathon](#2Friday) | [Website](https://github.com/2Friday/Hackathon) |[Twitter](https://twitter.com/_2friday) | [Website](https://github.com/2Friday/Hackathon)|
 | [Alt.Net Türkiye](#altdotnetturkiye) | | |
 | [Akademik Bilişim](#akademikbilisim) | | |
 | [Android Istanbul](#androidistanbul) | | |
