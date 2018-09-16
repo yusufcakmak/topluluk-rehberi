@@ -6,7 +6,7 @@
 Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgileri güncellemek isterseniz forklayıp, PR göndererek yardımcı olabilirsiniz.
 
 | Topluluk Adı  | Topluluk Sayfası | Sosyal Ağ | İletişim |
-| ------------- |------------- |-------------| ------------- |
+|:-------------|:------------- |:-------------|:-------------|
 | [2Friday Hackathon](#2Friday) | [Website](https://github.com/2Friday/Hackathon) |[Twitter](https://twitter.com/_2friday) | [Website](https://github.com/2Friday/Hackathon)|
 | [Alt.Net Türkiye](#altdotnetturkiye) | | |
 | [Akademik Bilişim](#akademikbilisim) | | |
