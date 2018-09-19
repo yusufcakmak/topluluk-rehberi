@@ -25,26 +25,26 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 | Frontend İstanbul | [Frontend İstanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/FrontendIstanbul) |  |
 | GDG (Google Developer Groups) | [GDG (Google Developer Groups)](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/GDG) | |
 | Hackathon Turkiye | [Hackathon Turkiye](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/HackathonTurkiye) |  |
-| Hacktrick | [Hacktrick](#hacktrick) | |
-| inzva | [inzva](#inzva) | |
-| Istanbul Coders | [Istanbul Coders](#istanbulcoders) | |
-| Istanbul DevOps Turkey | [Istanbul DevOps Turkey](#istanbuldevopsturkey) | |
-| İstanbul PHP | [İstanbul PHP](#istanbulphp) |  |
-| JavaScript Ankara | [JavaScript Ankara](#jsankara) | |
+| Hacktrick | [Hacktrick](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/Hacktrick) | |
+| inzva | [inzva](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/inzva) | |
+| Istanbul Coders | [Istanbul Coders](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/istanbulCoders) | |
+| Istanbul DevOps Turkey | [Istanbul DevOps Turkey](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/istanbulDevOpsTurkey) | |
+| İstanbul PHP | [İstanbul PHP](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/istanbulPHP) |  |
+| JavaScript Ankara | [JavaScript Ankara](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/JavaScriptAnkara) | |
 | Kocaeli Bilgisayar Kulübü | [Kocaeli Bilgisayar Kulübü](#KOUBK) | |
 | Kodluyoruz | [Kodluyoruz](#kodluyoruz) | | |
 | KOÜ IEEE Computer Society | [KOÜ IEEE Computer Society](#KOUIEEECS) |  |
-| laravel.istanbul | [laravel.istanbul](#laravelistanbul) |  |
-| Mobile Monday Ankara | [Mobile Monday Ankara](#momoankara) |  |
-| Mustafa Akgül Özgür Yazılım Yaz Kampı | [Mustafa Akgül Özgür Yazılım Yaz Kampı](#lyk) | |
-| NSIstanbul | [NSIstanbul](#nsistanbul) | | |
-| Octosec | [Octosec](#octosec) |  |
-| Özgür Web Günleri | [Özgür Web Günleri](#ozgurwebgunleri) |  |
-| PaüSiber | [PaüSiber](#pausiber) |  |
-| Python Istanbul | [Python Istanbul](#pythonistanbul) | |
-| Ruby Türkiye | [Ruby Türkiye](#rubyturkiye) | |
-| Sakarya Coders | [Sakarya Coders](#sakaryacoders) | | |
-| Serverless Turkey | [Serverless Turkey](#serverlessturkey) | |
-| Software Craftsmanship Turkey | [Software Craftsmanship Turkey](#softwarecraftsmanshipturkey) | |
-| WebEnd | [WebEnd](#webend) | | |
-| Women Tech Makers | [WTM (Women Tech Makers)](#wtm) |  |
+| laravel.istanbul | [laravel.istanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/laravel.istanbul) |  |
+| Mobile Monday Ankara | [Mobile Monday Ankara](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/MobileMondayAnkara) |  |
+| Mustafa Akgül Özgür Yazılım Yaz Kampı | [Mustafa Akgül Özgür Yazılım Yaz Kampı](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/MustafaAkgulOzgurYazilimYazKampi) | |
+| NSIstanbul | [NSIstanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/NSIstanbul) | | |
+| Octosec | [Octosec](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/Octosec) |  |
+| Özgür Web Günleri | [Özgür Web Günleri](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/OzgurWebGunleri) |  |
+| PaüSiber | [PaüSiber](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/PauSiber) |  |
+| Python Istanbul | [Python Istanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/PythonIstanbul) | |
+| Ruby Türkiye | [Ruby Türkiye](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/RubyTurkiye) | |
+| Sakarya Coders | [Sakarya Coders](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/SakaryaCoders) | | |
+| Serverless Turkey | [Serverless Turkey](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/ServerlessTurkey) | |
+| Software Craftsmanship Turkey | [Software Craftsmanship Turkey](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/SoftwareCraftsmanshipTurkey) | |
+| WebEnd | [WebEnd](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/WebEnd) | |
+| Women Tech Makers | [WTM (Women Tech Makers)](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/WTM) |  |
