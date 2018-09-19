@@ -7,24 +7,24 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 
 | Topluluk Adı  | Topluluk Sayfası | İletişim |
 |:-------------|:------------- |:-------------|
-| 2Friday Hackathon | [2Friday Hackathon](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/2FridayHackathon) | |
-| Alt.Net Türkiye | [Alt.Net Türkiye](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/AltNetTurkiye) |[Google Grup](https://groups.google.com/forum/#!forum/altdotnetturkiye) |   |
-|Akademik Bilişim | [Akademik Bilişim](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/AkademikBilisim) | |
-| Android Istanbul | [Android Istanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/AndroidIstanbul) | [Meetup](https://www.meetup.com/tr-TR/Android-Istanbul-Meetup/)| [Slack](http://androidistanbul.herokuapp.com/)|
-| Ankara PHP| [Ankara PHP](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/AnkaraPHP) | |
-| Ankara University Cyber Club | [Ankara University Cyber Club](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/AnkaraUniversityCyberClub) |
-| BİLMÖK | [BİLMÖK](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/Bilmok) |  |
-| BTG DAY | [BTG DAY](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/BtgDay) |  |
-| Bursa I/O | [Bursa I/O](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/BursaI-O) |  |
-| Codefiction | [Codefiction](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/Codefiction) | |
-| Coders Antalya | [Coders Antalya](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/CodersAntalya) | |
-| Deep Learning Türkiye | [Deep Learning Türkiye](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/DeepLearningTurkiye) |  |
-| Devnot | [Devnot](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/Devnot) | |
-| Django Girls | [Django Girls](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/DjangoGirls) |  |
-| Dotnetİstanbul| [Dotnetİstanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/DotnetIstanbul) |  |
-| Frontend İstanbul | [Frontend İstanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/FrontendIstanbul) |  |
-| GDG (Google Developer Groups) | [GDG (Google Developer Groups)](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/GDG) | |
-| Hackathon Turkiye | [Hackathon Turkiye](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/HackathonTurkiye) |  |
+| 2Friday Hackathon | [2Friday Hackathon](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/2FridayHackathon) | |
+| Alt.Net Türkiye | [Alt.Net Türkiye](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/AltNetTurkiye) |[Google Grup](https://groups.google.com/forum/#!forum/altdotnetturkiye) |   |
+|Akademik Bilişim | [Akademik Bilişim](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/AkademikBilisim) | |
+| Android Istanbul | [Android Istanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/AndroidIstanbul) | [Meetup](https://www.meetup.com/tr-TR/Android-Istanbul-Meetup/)| [Slack](http://androidistanbul.herokuapp.com/)|
+| Ankara PHP| [Ankara PHP](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/AnkaraPHP) | |
+| Ankara University Cyber Club | [Ankara University Cyber Club](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/AnkaraUniversityCyberClub) |
+| BİLMÖK | [BİLMÖK](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/Bilmok) |  |
+| BTG DAY | [BTG DAY](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/BtgDay) |  |
+| Bursa I/O | [Bursa I/O](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/BursaI-O) |  |
+| Codefiction | [Codefiction](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/Codefiction) | |
+| Coders Antalya | [Coders Antalya](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/CodersAntalya) | |
+| Deep Learning Türkiye | [Deep Learning Türkiye](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/DeepLearningTurkiye) |  |
+| Devnot | [Devnot](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/Devnot) | |
+| Django Girls | [Django Girls](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/DjangoGirls) |  |
+| Dotnetİstanbul| [Dotnetİstanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/DotnetIstanbul) |  |
+| Frontend İstanbul | [Frontend İstanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/FrontendIstanbul) |  |
+| GDG (Google Developer Groups) | [GDG (Google Developer Groups)](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/GDG) | |
+| Hackathon Turkiye | [Hackathon Turkiye](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/HackathonTurkiye) |  |
 | Hacktrick | [Hacktrick](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/Hacktrick) | |
 | inzva | [inzva](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/inzva) | |
 | Istanbul Coders | [Istanbul Coders](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/istanbulCoders) | |
@@ -53,4 +53,5 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 ----
 ### Destekleyenler
 Bu kaynağın oluşmasında desteğini esirgemeyen herkese teşekkürler!
+
 https://github.com/yusufcakmak/topluluk-rehberi/blob/master/CONTRIBUTERS.md
