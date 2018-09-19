@@ -1,13 +1,13 @@
 Topluluk detay sayfası için kullanılabilecek taslak.
 
-#Topluluk Adı 
---
+# Topluluk Adı 
 
-##Topluluk Açıklaması
---
+
+## Topluluk Açıklaması
+
 
 ## İletişim Kanalları
 iletşim formu, email adresi, slack vs
 
-##Dışarıya Açık Kaynaklar
+## Dışarıya Açık Kaynaklar
 github, medium, youtube vs
