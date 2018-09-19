@@ -48,3 +48,9 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 | Software Craftsmanship Turkey | [Software Craftsmanship Turkey](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/SoftwareCraftsmanshipTurkey) | |
 | WebEnd | [WebEnd](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/WebEnd) | |
 | Women Tech Makers | [WTM (Women Tech Makers)](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/WTM) |  |
+
+
+----
+### Destekleyenler
+Bu kaynağın oluşmasında desteğini esirgemeyen herkese teşekkürler!
+https://github.com/yusufcakmak/topluluk-rehberi/blob/master/CONTRIBUTERS.md
