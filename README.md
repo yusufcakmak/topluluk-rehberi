@@ -6,9 +6,9 @@
 Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgileri güncellemek isterseniz forklayıp, PR göndererek yardımcı olabilirsiniz.
 
 | Topluluk Adı  | Topluluk Sayfası | İletişim |
-|:-------------|:------------- |:-------------|:-------------|
+|:-------------|:------------- |:-------------|
 | 2Friday Hackathon | [2Friday Hackathon](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/2FridayHackathon) | |
-| Alt.Net Türkiye | [Alt.Net Türkiye](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/AltNetTurkiye) |[Google Grup](https://groups.google.com/forum/#!forum/altdotnetturkiye) | [Github](https://github.com/altdotnetturkiye))|  |
+| Alt.Net Türkiye | [Alt.Net Türkiye](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/AltNetTurkiye) |[Google Grup](https://groups.google.com/forum/#!forum/altdotnetturkiye) |   |
 |Akademik Bilişim | [Akademik Bilişim](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/AkademikBilisim) | |
 | Android Istanbul | [Android Istanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/AndroidIstanbul) | [Meetup](https://www.meetup.com/tr-TR/Android-Istanbul-Meetup/)| [Slack](http://androidistanbul.herokuapp.com/)|
 | Ankara PHP| [Ankara PHP](https://github.com/yusufcakmak/topluluk-rehberi/tree/community-page/community-pages/AnkaraPHP) | |
