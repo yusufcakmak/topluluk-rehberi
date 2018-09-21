@@ -7,11 +7,11 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 
 | Topluluk Adı  | Topluluk Sayfası | İletişim |
 |:-------------|:------------- |:-------------|
-| 2Friday Hackathon | [2Friday Hackathon](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/2FridayHackathon) | |
+| 2Friday Hackathon | [2Friday Hackathon](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/2FridayHackathon) | [Github](https://github.com/2Friday/Hackathon)|
 | Alt.Net Türkiye | [Alt.Net Türkiye](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/AltNetTurkiye) |[Google Grup](https://groups.google.com/forum/#!forum/altdotnetturkiye) |   |
-|Akademik Bilişim | [Akademik Bilişim](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/AkademikBilisim) | |
+|Akademik Bilişim | [Akademik Bilişim](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/AkademikBilisim) | [Website](https://ab.org.tr/)|
 | Android Istanbul | [Android Istanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/AndroidIstanbul) | [Meetup](https://www.meetup.com/tr-TR/Android-Istanbul-Meetup/)| [Slack](http://androidistanbul.herokuapp.com/)|
-| Ankara PHP| [Ankara PHP](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/AnkaraPHP) | |
+| Ankara PHP| [Ankara PHP](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/AnkaraPHP) |[Meetup](https://www.meetup.com/tr-TR/Ankara-PHP-Meetup/) |
 | Ankara University Cyber Club | [Ankara University Cyber Club](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/AnkaraUniversityCyberClub) |
 | BİLMÖK | [BİLMÖK](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/Bilmok) |  |
 | BTG DAY | [BTG DAY](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/BtgDay) |  |
