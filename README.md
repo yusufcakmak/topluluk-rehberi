@@ -29,8 +29,11 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 | inzva | [inzva](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/inzva) | |
 | Istanbul Coders | [Istanbul Coders](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/istanbulCoders) | |
 | Istanbul DevOps Turkey | [Istanbul DevOps Turkey](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/istanbulDevOpsTurkey) | |
+| Istanbul Flow | [Istanbul Flow](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/IstanbulFlow) | |
 | İstanbul PHP | [İstanbul PHP](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/istanbulPHP) |  |
 | JavaScript Ankara | [JavaScript Ankara](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/JavaScriptAnkara) | |
+| Junior Talks | [Junior Talks](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/JuniorTalks) | |
+| Kadın Bilişimci | [Kadın Bilişimci](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/KadinBilisimci) | |
 | Kocaeli Bilgisayar Kulübü | [Kocaeli Bilgisayar Kulübü](#KOUBK) | |
 | Kodluyoruz | [Kodluyoruz](#kodluyoruz) | | |
 | KOÜ IEEE Computer Society | [KOÜ IEEE Computer Society](#KOUIEEECS) |  |
@@ -42,10 +45,14 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 | Özgür Web Günleri | [Özgür Web Günleri](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/OzgurWebGunleri) |  |
 | PaüSiber | [PaüSiber](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/PauSiber) |  |
 | Python Istanbul | [Python Istanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/PythonIstanbul) | |
+| RE:CODED | [RE:CODED](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/Recoded) | |
 | Ruby Türkiye | [Ruby Türkiye](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/RubyTurkiye) | |
+| R-Ladies Istanbul | [R-Ladies Istanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/RLadiesIstanbul) | |
 | Sakarya Coders | [Sakarya Coders](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/SakaryaCoders) | | |
 | Serverless Turkey | [Serverless Turkey](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/ServerlessTurkey) | |
 | Software Craftsmanship Turkey | [Software Craftsmanship Turkey](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/SoftwareCraftsmanshipTurkey) | |
+| Tasarım Mutfağı | [Tasarım Mutfağı](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/TasarimMutfagi) | |
+| Turkish WIN | [Turkish WIN](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/TurkishWin) | |
 | WebEnd | [WebEnd](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/WebEnd) | |
 | Women Tech Makers | [WTM (Women Tech Makers)](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/WTM) |  |
 
