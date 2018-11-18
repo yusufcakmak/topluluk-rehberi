@@ -34,9 +34,9 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 | JavaScript Ankara | [JavaScript Ankara](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/JavaScriptAnkara) | |
 | Junior Talks | [Junior Talks](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/JuniorTalks) | |
 | Kadın Bilişimci | [Kadın Bilişimci](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/KadinBilisimci) | |
-| Kocaeli Bilgisayar Kulübü | [Kocaeli Bilgisayar Kulübü](#KOUBK) | |
-| Kodluyoruz | [Kodluyoruz](#kodluyoruz) | | |
-| KOÜ IEEE Computer Society | [KOÜ IEEE Computer Society](#KOUIEEECS) |  |
+| Kocaeli Bilgisayar Kulübü | [Kocaeli Bilgisayar Kulübü](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/KocaeliBilgisayarKulubu) | |
+| Kodluyoruz | [Kodluyoruz](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/Kodluyoruz) | |
+| KOÜ IEEE Computer Society | [KOÜ IEEE Computer Society](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/KOUEEEComputerSociety) |  |
 | laravel.istanbul | [laravel.istanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/laravel.istanbul) |  |
 | Mobile Monday Ankara | [Mobile Monday Ankara](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/MobileMondayAnkara) |  |
 | Mustafa Akgül Özgür Yazılım Yaz Kampı | [Mustafa Akgül Özgür Yazılım Yaz Kampı](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/MustafaAkgulOzgurYazilimYazKampi) | |
