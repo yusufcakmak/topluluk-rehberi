@@ -34,6 +34,15 @@ Hangi şehirlerde GDG bulunduğunu görmek ve onlarla iletişime geçmek için g
 
 [Slack](http://gdgistanbul-slack.herokuapp.com/)
 
+#### GDG Izmir
+[Meetup](https://www.meetup.com/tr-TR/GDG-Izmir/)
+
+[Slack](https://gdgizmir.slack.com/)
+
+[Facebook](https://www.facebook.com/gdgizmir/)
+
+[Instagram](https://www.instagram.com/gdgizmir/)
+
 #### GDG Kocaeli
 [Meetup](https://www.meetup.com/GDGKocaeli/)
 
@@ -72,6 +81,15 @@ Hangi şehirlerde WTM bulunduğunu görmek ve onlarla iletişime geçmek için g
 [Meetup](https://www.meetup.com/tr-TR/GDGIstanbul/)
 
 [Slack](http://gdgistanbul-slack.herokuapp.com/)
+
+#### WTM Izmir
+[Meetup](https://www.meetup.com/tr-TR/GDG-Izmir/)
+
+[Slack](https://gdgizmir.slack.com/)
+
+[Facebook](https://www.facebook.com/wtmizmir/)
+
+[Instagram](https://www.instagram.com/wtmizmir/)
 
 #### WTM Kocaeli
 [Meetup](https://www.meetup.com/GDGKocaeli/)

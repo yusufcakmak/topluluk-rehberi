@@ -1,6 +1,6 @@
 Repoya katkıda bulunan herkese teşekkür ediyorum. Bu katkıyı sağlayan geliştiricilerin listesi :
 
-
+* [Okan Aydın](https://github.com/okanaydin)
 * [Cafer Mert Ceyhan](https://github.com/mertceyhan)
 * [Murat Can Bur](https://github.com/muratcanbur)
 * [Erol Kaftanoğlu](https://github.com/erolkaftanoglu)
