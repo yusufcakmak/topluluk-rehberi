@@ -54,6 +54,7 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 | Software Craftsmanship Turkey | [Software Craftsmanship Turkey](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/SoftwareCraftsmanshipTurkey) | |
 | Tasarım Mutfağı | [Tasarım Mutfağı](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/TasarimMutfagi) | |
 | Turkish WIN | [Turkish WIN](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/TurkishWin) | |
+| Vo İstanbul | [Vo İstanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/WTM) |  |
 | WebEnd | [WebEnd](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/WebEnd) | |
 | Women Tech Makers | [WTM (Women Tech Makers)](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/WTM) |  |
 
