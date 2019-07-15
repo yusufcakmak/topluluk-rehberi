@@ -47,7 +47,7 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 | PaüSiber | [PaüSiber](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/PauSiber) |  |
 | Python Istanbul | [Python Istanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/PythonIstanbul) | |
 | RE:CODED | [RE:CODED](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/Recoded) | |
-| Ruby Türkiye | [Ruby Türkiye](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/RubyTurkiye) | |
+| Ruby Türkiye | [Ruby Türkiye](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/RubyTurkiye) | [Twitter](https://twitter.com/ruby_turkiye) |
 | R-Ladies Istanbul | [R-Ladies Istanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/RLadiesIstanbul) | |
 | Sakarya Coders | [Sakarya Coders](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/SakaryaCoders) | | |
 | Serverless Turkey | [Serverless Turkey](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/ServerlessTurkey) | |
