@@ -36,6 +36,7 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 | JavaScript Ankara | [JavaScript Ankara](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/JavaScriptAnkara) | |
 | Junior Talks | [Junior Talks](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/JuniorTalks) | |
 | Kadın Bilişimci | [Kadın Bilişimci](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/KadinBilisimci) | |
+| Kanvas Tasarım Topluluğu | [Kanvas Tasarım Topluluğu](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/KanvasTasarimToplulugu) | [Website](https://kanvas.istanbul/) |
 | Kocaeli Bilgisayar Kulübü | [Kocaeli Bilgisayar Kulübü](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/KocaeliBilgisayarKulubu) | |
 | Kodluyoruz | [Kodluyoruz](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/Kodluyoruz) | |
 | KOÜ IEEE Computer Society | [KOÜ IEEE Computer Society](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/KOUEEEComputerSociety) |  |
