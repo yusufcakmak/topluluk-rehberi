@@ -46,7 +46,7 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 | NSIstanbul | [NSIstanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/NSIstanbul) | | |
 | Octosec | [Octosec](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/Octosec) |  |
 | Özgür Web Günleri | [Özgür Web Günleri](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/OzgurWebGunleri) |  |
-| PaüSiber | [PaüSiber](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/PauSiber) |  |
+| PaüSiber | [PaüSiber](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/PauSiber) | [Website](https://pausiber.xyz/) |
 | Python Istanbul | [Python Istanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/PythonIstanbul) | |
 | RE:CODED | [RE:CODED](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/Recoded) | |
 | Ruby Türkiye | [Ruby Türkiye](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/RubyTurkiye) | [Twitter](https://twitter.com/ruby_turkiye) |
@@ -61,8 +61,6 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 | WebEnd | [WebEnd](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/WebEnd) | |
 | Women Tech Makers | [WTM (Women Tech Makers)](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/WTM) |  |
 | Data Istanbul | [Data Istanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/DataIstanbul/DataIstanbul.md) | [Meet Up](https://www.meetup.com/tr-TR/dataistanbul/) |
-
-
 
 ----
 ### Destekleyenler
