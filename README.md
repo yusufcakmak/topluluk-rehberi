@@ -32,6 +32,7 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 | Istanbul DevOps Turkey | [Istanbul DevOps Turkey](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/istanbulDevOpsTurkey) | |
 | Istanbul Flow | [Istanbul Flow](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/IstanbulFlow) | |
 | İstanbul PHP | [İstanbul PHP](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/istanbulPHP) |  |
+| Izmir Gophers | [Izmir Gophers](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/IzmirGophers) |  |
 | JavaScript Ankara | [JavaScript Ankara](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/JavaScriptAnkara) | |
 | Junior Talks | [Junior Talks](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/JuniorTalks) | |
 | Kadın Bilişimci | [Kadın Bilişimci](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/KadinBilisimci) | |
