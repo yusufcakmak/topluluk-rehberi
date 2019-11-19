@@ -24,6 +24,7 @@ Repoya katkıda bulunan herkese teşekkür ediyorum. Bu katkıyı sağlayan geli
 * [Mehmet Kose](https://github.com/mehmetkose)
 * [Yiğit Özkavcı](https://github.com/yigitozkavci)
 * [Oguzcan Emegil](https://github.com/oemegil)
+* [Mustafa Ezer](https://github.com/mustafaezer)
 
 
 
