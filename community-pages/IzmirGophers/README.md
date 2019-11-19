@@ -10,4 +10,6 @@ Go Programlama dilinde ustalaşma yolunda bize katılmak ve katkı sağlamak ist
 
 [Meetup](https://www.meetup.com/IzmirGophers/)
 
+[Twitter](https://twitter.com/IzmirGophers)
+
 [Github](https://github.com/IzmirGophers)
