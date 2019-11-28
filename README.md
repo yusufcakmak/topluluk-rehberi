@@ -61,7 +61,7 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 | WebEnd | [WebEnd](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/WebEnd) | |
 | Women Tech Makers | [WTM (Women Tech Makers)](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/WTM) |  |
 | Data Istanbul | [Data Istanbul](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/DataIstanbul/DataIstanbul.md) | [Meet Up](https://www.meetup.com/tr-TR/dataistanbul/) |
-
+| Bilisim IO | [Bilisim IO](https://github.com/yusufcakmak/topluluk-rehberi/tree/master/community-pages/BilisimIO) | [Twitter](https://twitter.com/bilisimio) |
 ----
 ### Destekleyenler
 Bu kaynağın oluşmasında desteğini esirgemeyen herkese teşekkürler!
