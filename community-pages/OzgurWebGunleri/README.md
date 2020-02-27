@@ -1,4 +1,4 @@
-## <a name="ozgurwebgunleri"></a> Özgür Web Günleri
+## Özgür Web Günleri
 
 Özgür Web Teknolojileri Günleri
 Linux Kullanıcıları Derneği tarafından yılda bir kez düzenlenir.

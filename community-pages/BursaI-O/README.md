@@ -1,4 +1,4 @@
-## <a name="bursaio"></a> Bursa I/O
+## Bursa I/O
 
 Bursa I/O; developer ve maker ruhlu insanların bir araya geldiği bilgi paylaşım ve çalışma grubudur.
 

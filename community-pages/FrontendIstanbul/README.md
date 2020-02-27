@@ -1,4 +1,4 @@
-## <a name="frontendistanbul"></a> Frontend İstanbul
+## Frontend İstanbul
 
 Frontend alanındaki teknolojilerin gelişim süreçlerini yakından takip eden ve çalıştığı uygulamalarda uygulayan bir topluluk oluşturmak amacıyla yola çıkan ve hep birlikte daha iyiyi hiç bıkmadan arayan birkaç gönüllüyüz. Grubu kurma amacımız daha fazla bilgi ve kaynağa hep birlikte erişmek ve aynı zamanda üreten bireyler olarak sektörel gelişimimizi daha ileriye taşımaktır.
 

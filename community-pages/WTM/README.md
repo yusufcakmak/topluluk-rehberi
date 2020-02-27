@@ -1,5 +1,5 @@
 
-## <a name="wtm"></a> WTM
+## WTM
 
 Women Techmakers (WTM) daha fazla kadının bilim, teknoloji, mühendislik ve benzeri sektörlerde yer alması ve paylaşımda bulunmasını teşvik etmek amacıyla etkinlikler düzenleyen ve Google tarafından desteklenen uluslararası bir topluluktur.
 

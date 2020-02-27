@@ -1,5 +1,5 @@
 
-## <a name="turkishwin"></a> Turkish WIN
+## Turkish WIN
 
 The Turkish Women's International Network is a sisterhood network for change. If she did it, so can you! 
 

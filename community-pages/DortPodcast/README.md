@@ -1,5 +1,5 @@
 
-## <a name="dortpodcast"></a> Dört Podcast
+## Dört Podcast
 
 Ağırlıklı olarak Android uygulama geliştirmeye yönelik konuşulan türkçe podcast. 
 

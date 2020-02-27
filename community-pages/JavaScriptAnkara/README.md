@@ -1,4 +1,4 @@
-## <a name="jsankara"></a> JavaScript Ankara
+## JavaScript Ankara
 
 Javascript, frontend topluluğu. Web ve Mobil dünyasındaki gelişmeleri konuşmak ve anlatmak için her ay toplanıyoruz.
 

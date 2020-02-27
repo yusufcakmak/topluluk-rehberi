@@ -1,5 +1,5 @@
 
-## <a name="rladiesistanbul"></a> R-Ladies Istanbul
+## R-Ladies Istanbul
 
 Istanbul's first R Programming Meetup for Women #rladies #rstats Come and join us!
 

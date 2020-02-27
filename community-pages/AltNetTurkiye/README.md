@@ -1,4 +1,4 @@
-## <a name="altdotnetturkiye"></a> Alt.Net Türkiye
+## Alt.Net Türkiye
 
 Burada Türkiye'deki yazilimcilar Türkçe olarak altdotnet prensipleri ve genel olarak .NET le ilgili üst düzey bilgi paylasiminda bulunurlar. Pragmatik olmak ve sürekli sorgulamak bu prensiplerin temelini olusturur, bu temelde ana akim (mainstream) yazilimcilardan farklilik gözetir ve Continuous Improvement (Sürekli Gelişim) e inanir. 
 

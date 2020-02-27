@@ -1,4 +1,4 @@
-## <a name="rubyturkiye"></a> Ruby Türkiye
+## Ruby Türkiye
 Türkiye'deki Ruby programcıları ve Ruby severler topluluğudur. Ruby ile program yazan ve ilgilenen herkesi bir araya getirmek ve belli bir bilinç oluşturmak adına çalışmaktadır.
 
 [Website](http://www.rubyturkiye.org/)

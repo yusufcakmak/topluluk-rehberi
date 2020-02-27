@@ -1,4 +1,4 @@
-## <a name="djangogirls"></a> Django Girls
+## Django Girls
 
 Kadınlara yönelik ücretsiz programlama atölyesi
 İlk websitenizi bizimle birlikte yapmak ister misiniz?

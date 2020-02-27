@@ -1,5 +1,5 @@
 
-## <a name="recoded"></a> RE:CODED
+## RE:CODED
 
 We're creating the future tech leaders of Iraq and Turkey.
 

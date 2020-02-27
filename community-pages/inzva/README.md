@@ -1,4 +1,4 @@
-## <a name="inzva"></a> inzva
+## inzva
 
 inzva, the sanctuary of the Turkish hacker community.
 

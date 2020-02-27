@@ -1,4 +1,4 @@
-## <a name="izmirgophers"></a> Izmir Gophers
+## Izmir Gophers
 
 Bizler, yazılım geliştirmeye tutkulu ve motive bir kaç yazılım geliştiriciyiz. Projelerimizde mümkün mertebe Go programlama dilini kullanıyoruz.
 
