@@ -1,4 +1,4 @@
-## <a name="2Friday"></a> 2Friday Hackathon
+## 2Friday Hackathon
 
 2Friday, alışılagelmiş hackathonların dışında, iki haftada bir hackathon organize eder. Yarışmacılar dilediği zaman hackathon maratonuna dahil olur. 14 günde bir Cuma akşamı, yarışmacılar Youtube kanalımız üzerinden projelerini tanıtırlar.
 

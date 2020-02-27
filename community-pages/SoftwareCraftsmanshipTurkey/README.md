@@ -1,4 +1,4 @@
-## <a name="softwarecraftsmanshipturkey"></a> Software Craftsmanship Turkey
+## Software Craftsmanship Turkey
 
 Bizler, kaliteli yazılımların ancak kaliteli yazılımcılar tarafından yazılabileceğine inanan bir grup tutkulu, disiplinli ve motive yazılım profesyoneliyiz. Biz kendimizi birer zanaatkar olarak görüyoruz. Çıraklıktan ustalığa giden zorlu bir yolculuktayız. Öğrenmeye bitmek bilmeyen bir istek duyuyoruz ve işimizi hakkını vererek yapmak istiyoruz. İşimizi hakkını vererek yapabilmenin tek yolun da yeteneklerimizin sürekli gelişmesi ve belli önemli değerlere sahip olmamızdan geçiyor olduğunu düşünüyoruz.
 

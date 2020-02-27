@@ -1,5 +1,5 @@
 
-## <a name="kadinbilisimci"></a> Kadın Bilişimci
+## Kadın Bilişimci
 
 Kadınların bilişim & teknoloji sektörlerinde daha çok istihdam etmesi için ve cinsiyeteşitliği'ni yakalamak için çalışan platform, #womenintech 💪🏻
 

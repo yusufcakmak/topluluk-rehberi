@@ -1,4 +1,4 @@
-## <a name="deeplearningturkiye"></a> Deep Learning Türkiye
+## Deep Learning Türkiye
 
 Deep Learning Türkiye Topluluğu; ülkemizde yapay zeka ve derin öğrenme alanında farkındalık yaratmak ve bu alanda çalışan, ilgilenen kişileri bir araya getirerek tecrübe, bilgi, birikim paylaşımının sağlanması ve bir arada çalışmalar yapılması amacıyla oluşturulmuştur.
 

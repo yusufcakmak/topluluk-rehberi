@@ -1,4 +1,4 @@
-## <a name="kodluyoruz"></a> Kodluyoruz
+## Kodluyoruz
 
 Kodluyoruz, ülkemizdeki gençlerin geleceklerine yüksek değer katacak kodlama eğitimleri sağlayan, kâr amacı gütmeyen ve tamamen gönüllülerden oluşan bir sosyal girişim ve yazılım hareketidir.
 

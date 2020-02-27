@@ -1,4 +1,4 @@
-## <a name="ankaraphp"></a> Ankara PHP
+## Ankara PHP
 
 AnkaraPHP grubu olarak her ayın ilk cumartesi günü meetuplar yapıyoruz. PHP ve PHP çevresindeki teknolojilerle ilgilenen, ilgilenmiş ya da ilgilenmek isteyenleri bir araya getiriyoruz. 
 

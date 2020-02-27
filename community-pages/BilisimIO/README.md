@@ -1,4 +1,4 @@
-## <a name="bilisimio"></a> BilisimIO
+## BilisimIO
 
 Bilişim IO, Yazılım Geliştirme Süreçleri, Yazılım, Mobil, Big Data, IT, Teknoloji, Teknoloji Haberleri, Makale, Tutorialların paylaşıldığı ve Yazılım profesyonellerinin gönüllü olarak oluşturduğu bir platform / topluluktur. Amacımız Türkçe kaynak oluştururarak ülkemizdeki yazılım ekosistemine katkı sağlamak.
 

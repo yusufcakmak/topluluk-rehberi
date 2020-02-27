@@ -1,5 +1,5 @@
 
-## <a name="androidistanbul"></a> Android Istanbul
+## Android Istanbul
 
 Çoğunlukla Istanbul'da yaşayan Android geliştiricilerin oluşturduğu topluluk. Herhangi bir katılım kısıtlaması bulunmamakta isteyen kişiler meetup aracılığı ile etkinliklere katılabilmekte.
 

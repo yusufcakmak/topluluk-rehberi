@@ -1,5 +1,5 @@
 
-## <a name="tasarimmutfagi"></a> Tasarım Mutfağı
+## Tasarım Mutfağı
 
 Tasarımı, tasarımcıların konuştuğu oluşum.
 

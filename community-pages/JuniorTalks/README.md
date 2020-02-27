@@ -1,5 +1,5 @@
 
-## <a name="juniortalks"></a> Junior Talks
+## Junior Talks
 
 Juniorların dilinden konuşan Türkçe podcast. 
 

@@ -1,5 +1,5 @@
 
-## <a name="voistanbul"></a> Vo İstanbul
+## Vo İstanbul
 
 Cihazlarımız ile etkileşime geçerken kullandığımız yöntemler son zaman içerisinde büyük değişimler gösterdi. Düğmelere basarak yönettiğimiz cihazlardan, dokunmatik ekranlara uzanan değişimin ardından, son teknolojiler artık konuşarak cihaz yönetmemize dahi olanak sağlıyor.
 

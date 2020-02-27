@@ -1,4 +1,4 @@
-## <a name="WebEnd"></a> WebEnd
+## WebEnd
 
 Açık kaynaklı projelerde backend teknolojileri konusunda uzun yıllar tecrübe edinmiş yazılımlıcılar ,proje yöneticileri ve devops uzmanlarının tecrübelerini paylaştığı etkinliktir.
 

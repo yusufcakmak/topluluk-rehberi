@@ -1,4 +1,4 @@
-## <a name="nsistanbul"></a> NSIstanbul
+## NSIstanbul
 
 NSIstanbul, iOS ve Mac OS X programlama üzerine aylık ve haftalık buluşmalar düzenleyen, maddi beklentisi olmayan bağımsız bir topluluktur.
 

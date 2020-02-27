@@ -1,4 +1,4 @@
-## <a name="codersantalya"></a> Coders Antalya
+## Coders Antalya
 
 Topluluğumuz Antalya bölgesindeki profesyonel amatör tüm yazılımcıları düzenlediği meetuplar ve sosyal etkinliklerle bünyesinde buluşturmayı hedefliyor.
 Yola [Free Code Camp](https://www.freecodecamp.org/) yerel topluluğu olarak çıktık. Zaman içinde misyonumuzu genişleterek tüm programcıları kucaklayacak bir topluluğa dönüştük.  

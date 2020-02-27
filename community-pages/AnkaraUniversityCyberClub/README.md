@@ -1,4 +1,4 @@
-## <a name="aucc"></a> Ankara University Cyber Club
+## Ankara University Cyber Club
 
 Ankara University Cyber Club, Ekim 2016'da Ankara Üniversitesi Bilgisayar Mühendisliği Bölümü’nde kurulmuş olup hacker etiğini ve kültürünü benimseyerek bilgi güvenliği farkındalığı oluşturmayı, üretmeyi ve bilgisini paylaşmayı hedeflemektedir.
 
