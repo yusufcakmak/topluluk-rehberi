@@ -8,5 +8,4 @@ Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgiler
 ----
 ### Destekleyenler
 Bu kaynağın oluşmasında desteğini esirgemeyen herkese teşekkürler!
-
-https://github.com/yusufcakmak/topluluk-rehberi/blob/master/CONTRIBUTERS.md
+[Destekleyenler](CONTRIBUTERS.md)
