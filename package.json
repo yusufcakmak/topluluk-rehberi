@@ -1,0 +1,30 @@
+{
+  "name": "topluluk-rehberi",
+  "version": "1.0.0",
+  "description": "Çevremizde birçok topluluk bulunuyor ve harika işler yapıyorlar. Çoğu zaman onların farkına bile varamıyoruz. Bu reponun amacı bu toplulukları listeleyerek güncel bir kaynak oluşturmak ve geliştiricilerin bu toplulukları keşfetmesine yardım etmek.",
+  "main": "src/build.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node src/build.js",
+    "convert": "node src/convert.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufcakmak/topluluk-rehberi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusufcakmak/topluluk-rehberi/issues"
+  },
+  "homepage": "https://github.com/yusufcakmak/topluluk-rehberi#readme",
+  "dependencies": {
+    "@actions/io": "^1.0.2",
+    "js-yaml": "^3.13.1",
+    "slugify": "^1.3.6"
+  }
+}
