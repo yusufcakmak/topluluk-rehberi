@@ -1,0 +1,597 @@
+communities:
+  - description: >-
+      2Friday, alışılagelmiş hackathonların dışında, iki haftada bir hackathon
+      organize eder. Yarışmacılar dilediği zaman hackathon maratonuna dahil
+      olur. 14 günde bir Cuma akşamı, yarışmacılar Youtube kanalımız üzerinden
+      projelerini tanıtırlar.
+    links:
+      twitter: 'https://twitter.com/_2friday'
+      website: 'https://github.com/2Friday/Hackathon'
+      youtube: 'https://www.youtube.com/channel/UCDijlt-IYXjAD57V1ux__RA'
+    name: 2Friday Hackathon
+  - description: >-
+      Üniversitelerde bilgi teknolojileri konusunda ilgili grupları bir araya
+      getirerek, bilgi teknolojilerinde ulusal altyapı, araştırma ve geliştirme,
+      üretim, eğitim ve kullanım alanlarını tüm boyutlarıyla tanıtmak,
+      tartışmak, birikimleri paylaşmak ve ortak politikalar oluşturmak
+      amaçlarıyla Akademik Bilişim Konferansları dizisi 1999’dan bu yana
+      düzenlenmektedir.
+    links:
+      twitter: 'https://twitter.com/AkademikBilisim'
+      website: 'http://ab.org.tr/'
+    name: Akademik Bilişim
+  - description: >-
+      Burada Türkiye'deki yazilimcilar Türkçe olarak altdotnet prensipleri ve
+      genel olarak .NET le ilgili üst düzey bilgi paylasiminda bulunurlar.
+      Pragmatik olmak ve sürekli sorgulamak bu prensiplerin temelini olusturur,
+      bu temelde ana akim (mainstream) yazilimcilardan farklilik gözetir ve
+      Continuous Improvement (Sürekli Gelişim) e inanir.  Basit yazilim hatalari
+      ara sira grubumuzda yer alsa da msdn gruplari, newsgroup lar ve
+      stackoverflow bu tür işler için cok daha uygun yerlerdir. 
+    links:
+      github: 'https://github.com/altdotnetturkiye'
+      google grup: 'https://groups.google.com/forum/#!forum/altdotnetturkiye'
+    name: Alt.Net Türkiye
+  - description: >-
+      Çoğunlukla Istanbul'da yaşayan Android geliştiricilerin oluşturduğu
+      topluluk. Herhangi bir katılım kısıtlaması bulunmamakta isteyen kişiler
+      meetup aracılığı ile etkinliklere katılabilmekte.
+    links:
+      meetup: 'https://www.meetup.com/tr-TR/Android-Istanbul-Meetup/'
+      slack: 'http://androidistanbul.herokuapp.com/'
+    name: Android Istanbul
+  - description: >-
+      AnkaraPHP grubu olarak her ayın ilk cumartesi günü meetuplar yapıyoruz.
+      PHP ve PHP çevresindeki teknolojilerle ilgilenen, ilgilenmiş ya da
+      ilgilenmek isteyenleri bir araya getiriyoruz. 
+    links:
+      facebook: 'https://www.facebook.com/groups/herayinilkcumartesi/?ref=bookmarks'
+      meetup: 'https://www.meetup.com/Ankara-PHP-Meetup/'
+      twitter: 'https://twitter.com/ankaraphp'
+      website: 'http://ankaraphp.github.io/'
+    name: Ankara PHP
+  - description: >-
+      Ankara University Cyber Club, Ekim 2016'da Ankara Üniversitesi Bilgisayar
+      Mühendisliği Bölümü’nde kurulmuş olup hacker etiğini ve kültürünü
+      benimseyerek bilgi güvenliği farkındalığı oluşturmayı, üretmeyi ve
+      bilgisini paylaşmayı hedeflemektedir.
+    links:
+      ctftime: 'https://ctftime.org/team/32148'
+      twitter: 'https://twitter.com/_aucc'
+      website: 'https://www.aucyberclub.org/'
+    name: Ankara University Cyber Club
+  - description: >-
+      BTG DAY , Ankara Yıldırım Beyazıt Üniversitesi'nde faaliyet gösteren biz
+      gönüllü öğrenciler tarafından organize edilen ve gelenekselleştirmeyi
+      amaçladığımız bir etkinliktir.
+    links:
+      website: 'https://btg.aybucyber.club/'
+    name: BTG DAY
+  - description: >-
+      2007 yılında kurulan BAU Yazılım ve Bilişim Kulübü'nün amacı, bilişim
+      sektörüyle öğrencileri henüz üniversitedeyken buluşturarak bilişim
+      dünyasına ilgi duyan her kesimden öğrencinin teknik ve kişisel
+      gelişimlerine katkıda bulunmak ve öğrencilerin sektör çevrelerini
+      tanımasına olanak sağlamaktır.
+    links:
+      facebook group: 'https://www.facebook.com/groups/buyabi'
+      facebook page: 'https://facebook.com/pg/buyabi/about'
+      instagram: 'https://www.instagram.com/bauyazilim'
+      linkedin: 'https://www.linkedin.com/groups/4214425/'
+      twitter: 'https://twitter.com/buyabi'
+    name: Bahçeşehir Üniversitesi Yazılım ve Bilişim Kulübü
+  - description: >-
+      Bilişim IO, Yazılım Geliştirme Süreçleri, Yazılım, Mobil, Big Data, IT,
+      Teknoloji, Teknoloji Haberleri, Makale, Tutorialların paylaşıldığı ve
+      Yazılım profesyonellerinin gönüllü olarak oluşturduğu bir platform /
+      topluluktur. Amacımız Türkçe kaynak oluştururarak ülkemizdeki yazılım
+      ekosistemine katkı sağlamak.
+    links:
+      facebook: 'https://www.facebook.com/bilisimio'
+      instagram: 'https://www.instagram.com/bilisimio/'
+      linkedin: 'https://www.linkedin.com/groups/13516041/'
+      twitter: 'https://twitter.com/bilisimio'
+      website: 'https://bilisim.io'
+    name: BilisimIO
+  - description: >-
+      Bursa I/O; developer ve maker ruhlu insanların bir araya geldiği bilgi
+      paylaşım ve çalışma grubudur.
+    links:
+      facebook: 'https://www.facebook.com/groups/bursaio/'
+      instagram: 'https://www.instagram.com/bursaioofficial/'
+      medium: 'https://medium.com/bursa-i-o'
+      meetup: 'https://www.meetup.com/tr-TR/Bursa-I-O-Bulusmalari/'
+      slack: 'http://bursaio.slack.com/'
+    name: Bursa I/O
+  - description: >-
+      Bilgisayar Mühendisliği öğrencileri kongresi her yıl farklı bir
+      üniversitenin bilgisayar mühendisliği bölümü ve/veya ilgili kulübü
+      tarafından organize edilen Türkiye’nin en büyük öğrenci kongresidir.
+    links:
+      twitter: 'https://twitter.com/bilmok'
+      website: 'https://www.bilmok.org.tr/'
+    name: BİLMÖK
+  - description: >-
+      Türkiye'de yazılım kalitesinin iyi olmamasından şikayetçi olan
+      yazılımcıların bir araya gelip elini taşın altına sokmasıyla oluşan bir
+      topluluktur. Asıl amacı kod kalitesi, unit testing ve continous
+      integration gibi pratiklerin ülke çapındaki projelerde yaygınlaşması için
+      tartışma platformu oluşturmak ve bunlarla ilgili sorunları su yüzüne
+      çıkartarak yeni yazılımcıların bilinçlendirilmesini sağlamaktır. Ayrıca
+      ekip soundcloud ve powerapp üzerinden haftalık podcast yayınları ve
+      meetup'lar düzenlemektedir.
+    links:
+      meetup: 'https://www.meetup.com/Codefiction/'
+      podcast: 'https://soundcloud.com/codefiction'
+      website: 'http://codefiction.tech/) | [Twitter'
+    name: Codefiction
+  - description: >-
+      Topluluğumuz Antalya bölgesindeki profesyonel amatör tüm yazılımcıları
+      düzenlediği meetuplar ve sosyal etkinliklerle bünyesinde buluşturmayı
+      hedefliyor. Yola [Free Code Camp](https://www.freecodecamp.org/) yerel
+      topluluğu olarak çıktık. Zaman içinde misyonumuzu genişleterek tüm
+      programcıları kucaklayacak bir topluluğa dönüştük.  
+    links:
+      facebook: 'https://www.facebook.com/groups/free.code.camp.antalya/'
+      github: 'https://github.com/orgs/codersAntalya'
+      gitter: 'https://gitter.im/codersAntalya/'
+      meetup: 'https://www.meetup.com/codersAntalya/'
+    name: Coders Antalya
+  - description: >-
+      This is a group for anyone interested in Data and related technologies to
+      drive future by crunching data. We want to share our knowledge around data
+      engineering, data science, statistics, machine learning
+    links:
+      meetup: 'https://www.meetup.com/tr-TR/dataistanbul/'
+    name: Data Istanbul
+  - description: >-
+      Deep Learning Türkiye Topluluğu; ülkemizde yapay zeka ve derin öğrenme
+      alanında farkındalık yaratmak ve bu alanda çalışan, ilgilenen kişileri bir
+      araya getirerek tecrübe, bilgi, birikim paylaşımının sağlanması ve bir
+      arada çalışmalar yapılması amacıyla oluşturulmuştur. Topluluğumuz
+      hakkındaki detaylı bilgiyi
+      [buradan](https://medium.com/deep-learning-turkiye/deep-learning-t%C3%BCrkiye-toplulu%C4%9Fu-600982f597d9)
+      okuyabilirsiniz.
+    links:
+      facebook: 'https://www.facebook.com/deeplearningtr/'
+      github: 'https://github.com/deeplearningturkiye'
+      linkedin: 'https://www.linkedin.com/company/deep-learning-turkiye/'
+      mail: 'mailto:deeplearningturkiye@gmail.com'
+      medium: 'https://medium.com/deep-learning-turkiye'
+      meetup: 'https://www.meetup.com/deep-learning-turkiye/ '
+      twitter: 'https://twitter.com/deeplearningtr'
+      website: 'http://deeplearningturkiye.com'
+    name: Deep Learning Türkiye
+  - description: >-
+      Gönüllü yazılım geliştiricilerden oluşan, ücretsiz eğitimler, konferanslar
+      ve buluşmalar düzenleyerek yazılım sektörünün gelişimine katkı sağlayan
+      bir topluluktur. 2006 yılında Nedirtv'yi kuran ekip tarafından 2014
+      yılında yeni bir oluşum olarak ortaya çıkmıştır. Aynı zamanda devnot.com
+      adresinde güncel konuları ele alan yazılar ve haberler yayınlamakta,
+      Youtube kanalından sunum, söyleşi ve yazılım ofisleri tanıtım videoları
+      yayınlanmaktadır.
+    links:
+      meetup: 'https://www.meetup.com/Devnot-Yazilimci-Bulusmalari/'
+      twitter: 'https://twitter.com/devnot_'
+      website: 'http://www.devnot.com'
+      youtube: 'https://www.youtube.com/c/devnottv'
+    name: Devnot
+  - description: >-
+      Kadınlara yönelik ücretsiz programlama atölyesi İlk websitenizi bizimle
+      birlikte yapmak ister misiniz? Nasıl websitesi yapılacağını öğrenmek
+      istiyorsanız size iyi haberlerimiz var! Yeni başlamak isteyenler için tek
+      günlük bir atölye düzenliyoruz! Erkek ya da kadın eğer dizüstü bir
+      bilgisayarınız varsa etkinliklere başvurabilirsiniz! 
+    links:
+      twitter: 'https://twitter.com/djangogirlsrize'
+      website: 'https://djangogirls.org/rize/'
+    name: Django Girls
+  - description: >-
+      İstanbul'da C# dilini kullanarak .Net Framework ve .Net Core
+      platformlarında yazılım geliştirenler için eğitimler düzenleyen bir
+      topluluktur. Geçtiğimiz aylarda yeni kurulan topluluk eğitimlerini
+      genellikle Cumartesi günleri düzenlemektedir.
+    links:
+      meetup: 'https://www.meetup.com/dotnet-istanbul/'
+      twitter: 'https://twitter.com/dotnet_istanbul'
+    name: Dotnetİstanbul
+  - description: >-
+      Ağırlıklı olarak Android uygulama geliştirmeye yönelik konuşulan türkçe
+      podcast. 
+    links:
+      medium: 'https://medium.com/d%C3%B6rt-podcast'
+      sound cloud: 'https://soundcloud.com/dortpodcast'
+      spotify: >-
+        https://open.spotify.com/show/1icmVFh9n6IbTFcuqoW1qn?si=UxUwn5cbRTqZM2IaEE9b1g
+      twitter: 'https://twitter.com/PodcastDort'
+    name: Dört Podcast
+  - description: >-
+      Frontend alanındaki teknolojilerin gelişim süreçlerini yakından takip eden
+      ve çalıştığı uygulamalarda uygulayan bir topluluk oluşturmak amacıyla yola
+      çıkan ve hep birlikte daha iyiyi hiç bıkmadan arayan birkaç gönüllüyüz.
+      Grubu kurma amacımız daha fazla bilgi ve kaynağa hep birlikte erişmek ve
+      aynı zamanda üreten bireyler olarak sektörel gelişimimizi daha ileriye
+      taşımaktır.
+    links:
+      github: 'https://github.com/frontendistanbul'
+      mail: 'mailto:mail@frontend.istanbul'
+      meetup: 'https://meetup.com/tr-TR/Frontend-Istanbul'
+      slack: 'https://goo.gl/forms/IZe06LgNk6Vsega83'
+      twitter: 'https://twitter.com/feistanbul'
+      website: 'http://frontend.istanbul'
+      youtube: 'https://youtube.com/channel/UC3fh1Y6TcRPE-W_bdxfT2cg'
+    name: Frontend İstanbul
+  - description: >-
+      Kısaca, Google Teknolojileri ile ilgilenen geliştiricilerin oluşturduğu
+      topluluklar olarak tanımlayabiliriz. GDG’ler açık topluluklardır, isteyen
+      herkes katılabilmektedir. Şehrinizde böyle bir yapılanma bulunmuyorsa siz
+      başlatabiliyorsunuz. Hangi şehirlerde GDG bulunduğunu görmek ve onlarla
+      iletişime geçmek için global
+      [GDG](https://developers.google.com/groups/directory/?hl=tr) websitesini
+      kullanabilirsiniz. Women Techmakers (WTM) daha fazla kadının bilim,
+      teknoloji, mühendislik ve benzeri sektörlerde yer alması ve paylaşımda
+      bulunmasını teşvik etmek amacıyla etkinlikler düzenleyen ve Google
+      tarafından desteklenen uluslararası bir topluluktur. Hangi şehirlerde WTM
+      bulunduğunu görmek ve onlarla iletişime geçmek için global
+      [WTM](https://www.womentechmakers.com/directory) websitesini
+      kullanabilirsiniz.
+    links:
+      facebook: 'https://www.facebook.com/kocaeligdg/'
+      instagram: 'https://www.instagram.com/wtmizmir/'
+      i̇nstagram: 'https://www.instagram.com/gdgkocaeli/'
+      meetup: 'https://www.meetup.com/GDGKocaeli/'
+      slack: 'http://gdgkocaeli-slack.herokuapp.com/'
+      twitter: 'https://twitter.com/WtmKocaeli'
+    name: GDG
+  - description: >-
+      Son zamanlarda ülkemizde hızla yaygınlaşan hackathonların daha geniş
+      kitlelere ulaşabilmeleri için bunların duyurularını yapıyor, aynı zamanda
+      hackathonlar ile ilgili yazılarımızı medium üzerinden paylaşıyoruz.
+    links:
+      medium: 'https://medium.com/hackathonturkiye'
+      slack: 'https://hackathon-turkey.slack.com'
+      twitter: 'https://twitter.com/turkeyhackathon'
+      website: 'https://hackathonturkiye.com/'
+    name: Hackathon Turkiye
+  - description: >-
+      Son zamanlarda ülkemizde hızla yaygınlaşan hackathonların daha geniş
+      kitlelere ulaşabilmeleri için bunların duyurularını yapıyor, aynı zamanda
+      hackathonlar ile ilgili yazılarımızı medium üzerinden paylaşıyoruz.
+    links:
+      twitter: 'https://twitter.com/hacktrickconf'
+    name: Hacktrick
+  - description: >-
+      Uluslararası mühendislik kuruluşu olan IEEE (Institute of Engineering for
+      Everyone Else)'nin Kocaeli Üniversitesi Mühendislik Fakültesi Dekanlığı
+      altında bulunan IEEE KOÜ Öğrenci Kolunun 9 adet komitesinden biri olan
+      Computer Society, tarif etmekte cidden zorlanılan bir isime sahip.
+      İzmit'te GDG Kocaeli ve KOUBK ile birlikte bilişim sektöründen profesyonel
+      kimlikleri öğrenciler ile buluşturup, kariyer ve teknik bilgi aktarımı
+      konusunda çalışmaktadır. Ayrıca geleneksel Hale getirdikleri F5 Days
+      isimli etkinliklerine her yıl Türkiye'ni bir çok yerinden katılım
+      sağlanmaktadır.
+    links:
+      facebook: 'https://www.facebook.com/ieeetrcs/'
+      instagram: 'https://www.instagram.com/ieeekoucs/'
+    name: IEEE Kocaeli Üniversitesi Computer Society
+  - description: >-
+      Yazılım geliştirme hakkında tartışmak, bilgi paylaşmak ve çalışmak için
+      bir araya gelen kodcularız. Eğer siz de bu alandaki tutkunuzu paylaşan,
+      benzer kafada, bir şeyler öğrenebileceğiniz ve öğretebileceğiniz insanlar
+      arıyorsanız buluşmalarımızdan birine bekleriz.
+    links:
+      meetup: 'https://www.meetup.com/Istanbul-Hackers/'
+      website: 'http://istanbulcoders.org/'
+    name: Istanbul Coders
+  - description: >-
+      Non profit community for better management and IT process. Focus on;
+      Design Thinking, Lean Product, Agile Management,, Dijital Transformation.
+    links:
+      meetup: 'https://www.meetup.com/tr-TR/istanbulflow/'
+      twitter: 'https://twitter.com/istanbulflow'
+      website: 'https://istanbulflow.com'
+    name: Istanbul Flow
+  - description: >-
+      Bizler, yazılım geliştirmeye tutkulu ve motive bir kaç yazılım
+      geliştiriciyiz. Projelerimizde mümkün mertebe Go programlama dilini
+      kullanıyoruz. İzmir'de olan diğer Go kullanıcıları ile bilgi alışverişinde
+      bulunmak, tanışmak ve yazılım geliştirme üzerine konuşmak için düzenli
+      olarak toplanmaya istekliyiz. Go incelikleri, TDD, Microservisler, Code
+      Review, Refactoring, Open Source, Clean Code gibi konular üzerinde sürekli
+      düşünüyor, yeni yöntemler deneyerek verimliliğimizi arttırmak ve işimizi
+      daha iyi yapmak için çalışıyoruz. Bu toplantıların da bizi geliştireceğine
+      inanıyoruz. Go Programlama dilinde ustalaşma yolunda bize katılmak ve
+      katkı sağlamak isterseniz sizi de aramıza bekliyoruz...
+    links:
+      github: 'https://github.com/IzmirGophers'
+      meetup: 'https://www.meetup.com/IzmirGophers/'
+      twitter: 'https://twitter.com/IzmirGophers'
+    name: Izmir Gophers
+  - description: >-
+      Javascript, frontend topluluğu. Web ve Mobil dünyasındaki gelişmeleri
+      konuşmak ve anlatmak için her ay toplanıyoruz.
+    links:
+      meetup: 'https://www.meetup.com/Javascript-Ankara/'
+      twitter: 'https://twitter.com/JS_Ankara'
+    name: JavaScript Ankara
+  - description: 'Juniorların dilinden konuşan Türkçe podcast. '
+    links:
+      sound cloud: soundcloud.com/junior-talks
+      twitter: 'https://twitter.com/JuniorTalks'
+    name: Junior Talks
+  - description: "Kadınların bilişim & teknoloji sektörlerinde daha çok istihdam etmesi için ve cinsiyeteşitliği'ni yakalamak için çalışan platform, #womenintech \U0001F4AA\U0001F3FB"
+    links:
+      twitter: 'https://twitter.com/kadinbilisimci'
+      website: kadinbilisimci.com
+    name: Kadın Bilişimci
+  - description: >-
+      Kanvas Tasarım Topluluğu, dijital ürün tasarımı konusunda çalışan ve bu
+      konuya merak duyan herkesi bir araya getirmeyi hedefleyen bir topluluk
+      olarak kuruldu. 2019 yaz aylarında hayata geçti diyebiliriz. Hedefimiz
+      tasarımcıları bir araya getirmekle birlikte, Türkiye’deki “Tasarım
+      estetikten ibarettir” algısını değiştirmek ve daha fazla insanı tasarım
+      disiplinine alıştırmak. Eylül 2019’da da https://kanvas.istanbul web
+      sitesini yayına alıp duyurmaya başladık.
+    links:
+      kommunity: 'https://kommunity.com/kanvas-tasarim-toplulugu'
+      twitter: 'https://twitter.com/kanvastt'
+    name: Kanvas Tasarım Topluluğu
+  - description: >-
+      KOUBK; 1995 yılından beri; sektörün ve kariyer hedefi olan öğrencilerin
+      İzmit'teki buluşma noktası olan KOUBK, birçok farklı topluluğun
+      oluşmasında ktif rol almış, yüzlerce insan yetiştirmiş, halen Kocaeli
+      Üniversitesi Umuttepe Kampüsü içerisinde faaliyetlerine devam etmekte olan
+      bir öğrenci topluluğudur.
+    links:
+      facebook: 'https://www.facebook.com/KouBilgisayar'
+      instagram: 'https://www.instagram.com/koubk/'
+    name: Kocaeli Üniversitesi Bilgisayar Kulübü
+  - description: >-
+      Kodluyoruz, ülkemizdeki gençlerin geleceklerine yüksek değer katacak
+      kodlama eğitimleri sağlayan, kâr amacı gütmeyen ve tamamen gönüllülerden
+      oluşan bir sosyal girişim ve yazılım hareketidir.
+    links:
+      mail: 'mailto:info@kodluyoruz.org'
+      medium: 'https://medium.com/@kodluyoruz'
+      meetup: 'https://www.meetup.com/kodluyoruzakademi/'
+      twitter: 'https://twitter.com/Kodluyoruz'
+      website: 'http://www.kodluyoruz.org'
+      youtube: 'https://www.youtube.com/channel/UCSnIf-v95OSGIv9H7d2R2lw'
+    name: Kodluyoruz
+  - description: >-
+      Her ayın ilk Pazartesi günü Mobili konuşmak için Ankara'da bir araya
+      geliyoruz. Seni de bekleriz.
+    links:
+      twitter: 'https://twitter.com/momoankara'
+    name: Mobile Monday Ankara
+  - description: Mustafa Akgül Özgür Yazılım Yaz Kampı
+    links:
+      twitter: 'https://twitter.com/OzgurYazKampi'
+      website: 'https://kamp.linux.org.tr'
+    name: Mustafa Akgül Özgür Yazılım Yaz Kampı
+  - description: >-
+      NSIstanbul, iOS ve Mac OS X programlama üzerine aylık ve haftalık
+      buluşmalar düzenleyen, maddi beklentisi olmayan bağımsız bir topluluktur.
+    links:
+      medium: 'https://medium.com/nsistanbul'
+      slack: 'http://slack.nsistanbul.com/'
+      twitter: 'https://twitter.com/NS_Istanbul'
+      website: 'http://nsistanbul.com/'
+      youtube: 'https://www.youtube.com/channel/UC4EltqGnSy6t5AjMficZv5w'
+    name: NSIstanbul
+  - description: >-
+      İlk olarak 2013 yılında Ankara Üniversitesi öğrencilerinin bir araya
+      gelerek oluşturduğu Octosec, zamanla kabına sığmayıp farklı
+      üniversitelerden öğrencileri de bünyesine katmıştır. Sonraki dönemlerde
+      ekibe dahil olan ve ayrılan kişilerle günümüzdeki haliyle, üniversite
+      bağımsız gönüllü bir topluluk olmuştur.
+    links:
+      twitter: 'https://twitter.com/octosec'
+      website: 'http://octosec.net/'
+    name: Octosec
+  - description: >-
+      Siber güvenlik farkındalığı oluşturma ve ülkenin ihtiyacı olan nitelikli
+      iş gücünü üretme güdüsüyle birleşmiş insan topluluğuyuz. <p
+      align="center">   <img alt="pausiber-logo"
+      src="https://raw.githubusercontent.com/PauSiber/tasarim/master/images/pausiber-logo.png"
+      width="350"> </p>
+    links:
+      '**github**': 'https://github.com/pausiber'
+      '**instragram**': 'https://www.instagram.com/pausiber/'
+      '**telegram**': 'https://telegram.me/pausiber'
+      '**twitter**': 'https://twitter.com/SiberPau'
+      '**website**': 'https://pausiber.xyz/'
+    name: PaüSiber
+  - description: >-
+      İstanbul’daki Python programcıları topluluğu olarak 2010 yılından bu yana
+      çeşitli etkinlikler düzenledik. Yaptığımız etkinliklere sunumlar
+      sayfasından göz atabilirsiniz.
+    links:
+      meetup: 'https://www.meetup.com/tr-TR/python-istanbul/'
+    name: Python Istanbul
+  - description: >-
+      Istanbul's first R Programming Meetup for Women #rladies #rstats Come and
+      join us!
+    links:
+      meetup: 'https://www.meetup.com/tr-TR/rladies-istanbul/'
+      twitter: 'https://twitter.com/RLadiesIstanbul'
+    name: R-Ladies Istanbul
+  - description: We're creating the future tech leaders of Iraq and Turkey.
+    links:
+      instagram: 'https://www.instagram.com/recodedofficial/'
+      medium: 'https://medium.com/re-coded'
+      twitter: 'https://twitter.com/recodedofficial'
+      website: 'https://www.re-coded.com'
+    name: 'RE:CODED'
+  - description: >-
+      Türkiye'deki Ruby programcıları ve Ruby severler topluluğudur. Ruby ile
+      program yazan ve ilgilenen herkesi bir araya getirmek ve belli bir bilinç
+      oluşturmak adına çalışmaktadır.
+    links:
+      meetup: 'https://www.meetup.com/Ruby-Turkiye/?_cookie-check=IR4xoTy_aeSrwvlO'
+      twitter: 'https://twitter.com/ruby_turkiye'
+      website: 'http://www.rubyturkiye.org/'
+    name: Ruby Türkiye
+  - description: >-
+      Sakarya Coders, Sakarya'da yazılıma ilgi duyan ya da bunu meslek olarak
+      yapmayı düşünen öğrencilerle bu alanda çalışan profesyonellerin ve
+      yöneticilerin bir araya gelmesini hedefleyen bir buluşma platformudur.
+    links:
+      facebook: 'https://facebook.com/sakaryacoders'
+      instagram: 'https://instagram.com/sakaryacoders'
+      mail: 'mailto:merkez@sakaryacoders.org'
+      meetup: 'https://www.meetup.com/tr-TR/sakarya-coders/'
+      twitter: 'https://twitter.com/sakaryacoders'
+    name: Sakarya Coders
+  - description: >-
+      Bu grup AWS Lambda, API Gateway, Microsoft Azure Functions, Apache
+      OpenWhisk, Google Cloud Functions, IoT, FaaS (Function-as-a-Service), IaaS
+      (Infrastructure-as-a-Service), microservices, serverless application
+      development, developer tools, DevOps, event-driven architecture gibi
+      konularla ilgilenen herkes açıktır.
+    links:
+      blog: 'https://medium.com/serverless-turkey'
+      meetup: 'https://www.meetup.com/Serverless-Turkey/'
+      twitter: 'https://twitter.com/serverlesstr'
+    name: Serverless Turkey
+  - description: >-
+      Bizler, kaliteli yazılımların ancak kaliteli yazılımcılar tarafından
+      yazılabileceğine inanan bir grup tutkulu, disiplinli ve motive yazılım
+      profesyoneliyiz. Biz kendimizi birer zanaatkar olarak görüyoruz.
+      Çıraklıktan ustalığa giden zorlu bir yolculuktayız. Öğrenmeye bitmek
+      bilmeyen bir istek duyuyoruz ve işimizi hakkını vererek yapmak istiyoruz.
+      İşimizi hakkını vererek yapabilmenin tek yolun da yeteneklerimizin sürekli
+      gelişmesi ve belli önemli değerlere sahip olmamızdan geçiyor olduğunu
+      düşünüyoruz.
+    links:
+      github: 'https://github.com/scturkey'
+      instagram: 'https://www.instagram.com/scturkeycommunity'
+      meetup: >-
+        https://www.meetup.com/tr-TR/Software-Craftsmanship-Turkey/?chapter_analytics_code=UA-86718424-1
+      twitter: 'https://twitter.com/scturkey'
+      website: 'http://www.scturkey.org/'
+      youtube: 'https://www.youtube.com/channel/UClleXc0jXi-LSK5msUordJg'
+    name: Software Craftsmanship Turkey
+  - description: 'Tasarımı, tasarımcıların konuştuğu oluşum.'
+    links:
+      slack: 'https://tasarimmutfagi.typeform.com/to/zC7CYX'
+      twitter: 'https://twitter.com/tasarimmutfagi'
+      youtube: 'https://www.youtube.com/tasarimmutfagi'
+    name: Tasarım Mutfağı
+  - description: >-
+      The Turkish Women's International Network is a sisterhood network for
+      change. If she did it, so can you! 
+    links:
+      instagram: 'https://www.instagram.com/officialturkishwin/'
+      twitter: 'https://twitter.com/turkishwin'
+      website: 'https://turkishwin.com'
+      youtube: 'https://www.youtube.com/turkishwin'
+    name: Turkish WIN
+  - description: >-
+      UX'minimal olarak farklı disiplinlerden bir araya gelmiş ve kullanıcıya
+      dokunan tüm alanları irdelemeyi, kullanıcı deneyimi alanında rol alan
+      kişileri bilinçlendirmeyi ve en önemlisi paylaşarak öğrenmeyi hedefleyen
+      bir ekibiz. Organize ettiğimiz buluşmalar ile ‘yüz yüze’ tanışmayı,
+      workshop’larımız ile paylaşarak üretmeyi, Slack kanalımız ile de
+      iletişimde kalmayı amaçlıyoruz. Kullanıcı Deneyimi Tasarımı git gide
+      gelişen, büyüyen bir alan ve bu büyümede hep beraber yer alalım istiyoruz.
+      Podcastlerimiz ve Medium kanalımız ile içerik üretimine hız verirken;
+      webinarlarımız ve UX'm Live Session konseptimiz ile de içerik üretimini
+      desteklemeye çalışıyoruz.
+    links:
+      anchor: 'https://anchor.fm/uxminimal'
+      facebook: 'https://www.facebook.com/uxminimal'
+      instagram: 'https://www.instagram.com/uxminimal'
+      linkedin: 'https://www.linkedin.com/company/uxminimal/'
+      medium: 'https://medium.com/uxminimal'
+      meetup: 'https://www.meetup.com/tr-TR/UXminimal/'
+      slack: 'http://bit.ly/UXMSlack'
+      twitter: 'https://twitter.com/ux_minimal'
+      youtube: 'https://www.youtube.com/uxminimal'
+    name: UX'minimal
+  - description: >-
+      Cihazlarımız ile etkileşime geçerken kullandığımız yöntemler son zaman
+      içerisinde büyük değişimler gösterdi. Düğmelere basarak yönettiğimiz
+      cihazlardan, dokunmatik ekranlara uzanan değişimin ardından, son
+      teknolojiler artık konuşarak cihaz yönetmemize dahi olanak sağlıyor. Bu
+      topluluk Google Assistant, Amazon Alexa, Microsoft Cortana, Apple Siri
+      gibi VUI (Sesli Kullanıcı Arayüzleri) konularında teknoloji, platformlar
+      ve kullanıcı etkileşimi deneyimleri üzerine konuların konuşulması,
+      tartışılması amaçlanan etkinlikler ve buluşmalar organize eder.
+    links:
+      twitter: 'https://twitter.com/voistanbul'
+    name: Vo İstanbul
+  - description: >-
+      Women Techmakers (WTM) daha fazla kadının bilim, teknoloji, mühendislik ve
+      benzeri sektörlerde yer alması ve paylaşımda bulunmasını teşvik etmek
+      amacıyla etkinlikler düzenleyen ve Google tarafından desteklenen
+      uluslararası bir topluluktur. Hangi şehirlerde WTM bulunduğunu görmek ve
+      onlarla iletişime geçmek için global
+      [WTM](https://www.womentechmakers.com/directory) websitesini
+      kullanabilirsiniz.
+    links:
+      facebook: 'https://www.facebook.com/kocaeligdg/'
+      i̇nstagram: 'https://www.instagram.com/gdgkocaeli/'
+      meetup: 'https://www.meetup.com/GDGKocaeli/'
+      slack: 'http://gdgkocaeli-slack.herokuapp.com/'
+      twitter: 'https://twitter.com/WtmKocaeli'
+    name: WTM
+  - description: >-
+      Açık kaynaklı projelerde backend teknolojileri konusunda uzun yıllar
+      tecrübe edinmiş yazılımlıcılar ,proje yöneticileri ve devops uzmanlarının
+      tecrübelerini paylaştığı etkinliktir.
+    links:
+      facebook: 'https://www.facebook.com/webendorg'
+      instragram: 'https://www.instagram.com/webendorg'
+      twitter: 'https://twitter.com/webendorg'
+      website: 'https://webend.org'
+      youtube: 'https://www.youtube.com/channel/UCUmfDu4Ux_uD9Hv5GKtNHAg'
+    name: WebEnd
+  - description: >-
+      inzva, the sanctuary of the Turkish hacker community. We are an
+      independent non-profit entity with the support of Bev.Foundation and we
+      provide a neutral umbrella for all Turkish hackers.
+    links:
+      facebook: 'https://www.facebook.com/inzva/'
+      github: 'https://github.com/inzva'
+      mail: 'mailto:contact@inzva.com'
+      twitter: 'https://twitter.com/inzvaspace'
+      website: 'https://inzva.com/'
+    name: inzva
+  - description: >-
+      İstanbul'daki Laravel geliştiricileri, geliştirmeye heveslileri ve bi
+      görelim bakalımcılarını bir araya getiriyoruz! Her ay gerçekleştirmeyi
+      planladığımız buluşmalarda Laravel'i tanıtmaya, tanıyanlardan ve
+      kullananlardan dinlemeye, çalıştaylar düzenlemeye ve birbirimizi tanıyıp
+      eğlenmeye çalışacağız.
+    links:
+      meetup: 'https://www.meetup.com/laravelistanbul/'
+      twitter: 'https://twitter.com/laravelistanbul'
+      website: 'http://laravel.istanbul/'
+    name: laravel.istanbul
+  - description: >-
+      Özgür Web Teknolojileri Günleri Linux Kullanıcıları Derneği tarafından
+      yılda bir kez düzenlenir. Özgür web teknolojileri ile ilgilenen herkesin
+      buluşma yeridir. Toplumun her kesimine uygun düzeyde, tanıtıcı ve teknik
+      seminerler yapılır. Organizasyonlar, kamu kuruluşları ve özel sektörden
+      ilgili şirketler stand açar, ürün ve hizmetlerini tanıtır.
+    links:
+      twitter: 'https://twitter.com/ozgurwebgunleri'
+      website: 'https://ozgurwebgunleri.org.tr/2017/'
+    name: Özgür Web Günleri
+  - description: >-
+      Bu grup, DevOps ve kaliteli yazılım geliştirme ile ilgilenen kişiler
+      içindir. Her seviyedeki kişilere açıktır.
+    links:
+      meetup: 'https://www.meetup.com/Istanbul-DevOps-Turkey-Meetup/'
+      twitter: 'https://twitter.com/devopstr'
+      website: 'https://devopsturkey.org/'
+    name: İstanbul DevOps Turkey
+  - description: >-
+      PHP ve ekosistemine hitap ediyor 2014 yılından beri her ay Meetup, Eğitim
+      ve yılda bir kez PHPKonf adında Türkiye'nin en büyük yazılım
+      konferanslarından birini düzenliyoruz.
+    links:
+      meetup: 'https://www.meetup.com/IstanbulPHP/'
+      twitter: 'https://twitter.com/istanbulphp'
+    name: İstanbul PHP
