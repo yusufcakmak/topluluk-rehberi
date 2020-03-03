@@ -1,26 +1,9 @@
-import 'dart:async';
-import 'dart:convert';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
+import 'package:flutterapp/data/communityList.dart';
 import 'package:http/http.dart' as http;
 import '../model/community.dart';
 import 'detailPage.dart';
-
-Future<List<Community>> fetchLink(http.Client client) async {
-  final response = await client
-      .get('https://yusufcakmak.github.io/topluluk-rehberi/data.json');
-
-  var responseJson = json.decode(response.body);
-  return (responseJson['communities'] as List)
-      .map((p) => Community.fromJson(p))
-      .toList();
-}
-
-List<Community> parseCommunities(String responseBody) {
-  final parsed = jsonDecode(responseBody).cast<Map<String, dynamic>>();
-
-  return parsed.map<Community>((json) => Community.fromJson(json)).toList();
-}
 
 class HomePage extends StatefulWidget {
   final String title;

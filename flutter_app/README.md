@@ -8,7 +8,7 @@ Açık kaynak topluluk rehberi verisi ile oluşturmuş, açık kaynak flutter mo
 
 ## Ekran Görüntüsü
 
-<img height="480px" src="assets/1.png"><img height="480px" src="assets/2.png">
+<img height="480px" src="assets/1.png">  <img height="480px" src="assets/2.png">
 ## Contributing
 
 Uygulamada değiştirmek istediğiniz bir kısım varsa forklayıp, PR göndererek yardımcı olabilirsiniz.
