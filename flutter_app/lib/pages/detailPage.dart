@@ -1,10 +1,35 @@
+import 'package:eva_icons_flutter/eva_icons_flutter.dart';
 import 'package:flutter/material.dart';
 import 'package:flutterapp/model/community.dart';
+import 'package:url_launcher/url_launcher.dart';
 
-class DetailPage extends StatelessWidget {
+class DetailPage extends StatefulWidget {
   final Community communities;
 
   DetailPage({Key key, this.communities}) : super(key: key);
+
+  @override
+  _DetailPageState createState() => _DetailPageState();
+}
+
+
+
+class _DetailPageState extends State<DetailPage> {
+  bool _visible = true;
+
+  @override
+  void initState() {
+    checkVisibilityButton();
+    super.initState();
+  }
+
+  void checkVisibilityButton() {
+    setState(() {
+      if(widget.communities.links.twitter == null){
+        _visible=false;
+      }
+    });
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -23,7 +48,7 @@ class DetailPage extends StatelessWidget {
         ),
         SizedBox(height: 10.0),
         Text(
-          communities.name,
+          widget.communities.name,
           style: TextStyle(color: Colors.white, fontSize: 45.0),
         ),
       ],
@@ -69,8 +94,17 @@ class DetailPage extends StatelessWidget {
         child: Column(
           children: <Widget>[
             Text(
-              communities.description,
+              widget.communities.description,
               style: TextStyle(fontSize: 18.0),
+            ),
+            SizedBox(height: 10.0),
+            Visibility(
+              visible: _visible,
+              child: IconButton(
+                  icon: Icon(EvaIcons.twitter),
+                  onPressed: () {
+                    launch(widget.communities.links.twitter);
+                  }),
             ),
           ],
         ),
