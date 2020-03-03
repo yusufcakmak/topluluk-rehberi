@@ -3,7 +3,8 @@ import 'dart:convert';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'model/community.dart';
+import '../model/community.dart';
+import 'detailPage.dart';
 
 Future<List<Community>> fetchLink(http.Client client) async {
   final response = await client
@@ -82,7 +83,7 @@ class CommunityList extends StatelessWidget {
                     border: new Border(
                         right:
                             new BorderSide(width: 1.0, color: Colors.white24))),
-                child: Icon(Icons.autorenew, color: Colors.white),
+                child: Icon(Icons.people, color: Colors.white),
               ),
               title: Text(
                 communities[index].name,
@@ -91,7 +92,12 @@ class CommunityList extends StatelessWidget {
               ),
               trailing: Icon(Icons.keyboard_arrow_right,
                   color: Colors.white, size: 30.0),
-              onTap: () {},
+              onTap: () {
+                Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                        builder: (context) => DetailPage(communities: communities[index],)));
+              },
             ),
           ),
         );
