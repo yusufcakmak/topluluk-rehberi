@@ -1,4 +1,5 @@
 * [2Friday Hackathon](/community/2friday-hackathon.md)
+* [AGU Computer Society](/community/agu-computer-society.md)
 * [Akademik Bilişim](/community/akademik-bilisim.md)
 * [Alt.Net Türkiye](/community/alt.net-turkiye.md)
 * [Android Istanbul](/community/android-istanbul.md)
