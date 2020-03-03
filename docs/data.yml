@@ -10,6 +10,21 @@ communities:
       youtube: 'https://www.youtube.com/channel/UCDijlt-IYXjAD57V1ux__RA'
     name: 2Friday Hackathon
   - description: >-
+      AGU Computer Society is a meritocratic, consensus-based community. 
+      Anyone with an interest in a project related to computer science can 
+      join the community, contribute to a project design and participate 
+      in the decision-making process. It started its life as an independent 
+      society in 2017 but now it is a student club at Abdullah Gül University.
+      We have organized many workshops, hackathons and conferences so far. 
+      Check our social media accounts to follow future events.
+    links:
+      instagram: 'https://www.instagram.com/agucompsociety'
+      facebook: 'https://www.facebook.com/agucompsociety'
+      twitter: 'https://twitter.com/agucsociety'
+      github: 'https://github.com/agucomputersociety'
+      website: 'https://agucomputersociety.github.io'
+    name: AGU Computer Society
+  - description: >-
       Üniversitelerde bilgi teknolojileri konusunda ilgili grupları bir araya
       getirerek, bilgi teknolojilerinde ulusal altyapı, araştırma ve geliştirme,
       üretim, eğitim ve kullanım alanlarını tüm boyutlarıyla tanıtmak,
