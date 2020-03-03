@@ -1,16 +1,14 @@
-# flutterapp
+<h1 align="center">Topluluk Rehberi - Flutter Mobil Uygulama</h1>
 
-A new Flutter application.
+<div align="center">
 
-## Getting Started
+Açık kaynak topluluk rehberi verisi ile oluşturmuş, açık kaynak flutter mobil uygulama.
 
-This project is a starting point for a Flutter application.
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+## Ekran Görüntüsü
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img height="480px" src="assets/1.png"><img height="480px" src="assets/2.png">
+## Contributing
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Uygulamada değiştirmek istediğiniz bir kısım varsa forklayıp, PR göndererek yardımcı olabilirsiniz.
