@@ -1,3 +1,8 @@
+import 'package:json_annotation/json_annotation.dart';
+part 'community.g.dart';
+
+
+@JsonSerializable()
 class Community {
   final String name, description;
   Source links;
@@ -15,6 +20,7 @@ class Community {
 
 }
 
+@JsonSerializable()
 class Source {
   String facebook;
   String twitter;

@@ -75,7 +75,7 @@ class HomePage extends StatelessWidget {
       shrinkWrap: true,
       itemCount: communities.length,
       itemBuilder: (BuildContext context, int index) {
-        return new Text(communities[index].name);
+        return new Text(communities[index].links.twitter??'default value');
       },
     );
   }
