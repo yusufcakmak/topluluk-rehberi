@@ -5,7 +5,7 @@
 
 Listeye eklemek istediğiniz bir topluluk varsa veya bir topluluğa ait bilgileri güncellemek isterseniz forklayıp, PR göndererek yardımcı olabilirsiniz.
 
-https://yusufcakmak.github.io/topluluk-rehberi/
+https://topluluk-rehberi.github.io/topluluk-rehberi/
 
 ----
 ### Destekleyenler
