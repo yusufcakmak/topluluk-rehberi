@@ -3,6 +3,7 @@
 * [Akademik Bilişim](/community/akademik-bilisim.md)
 * [Alt.Net Türkiye](/community/alt.net-turkiye.md)
 * [Android Istanbul](/community/android-istanbul.md)
+* [Android Türkiye](/community/android-turkiye.md)
 * [Ankara PHP](/community/ankara-php.md)
 * [Ankara University Cyber Club](/community/ankara-university-cyber-club.md)
 * [BTG DAY](/community/btg-day.md)

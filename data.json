@@ -45,6 +45,13 @@
       "name": "Android Istanbul"
     },
     {
+      "description": "Türkiye'deki Android uygulama geliştiricilerin bir araya gelmesi için kurulmuş bir gruptur.  Telegram üzerinden aktif olarak soru-cevap, etkinlikler ve android üzerine tüm konuları konuşuruz.",
+      "links": {
+        "Telegram": "https://t.me/androidturkey"
+      },
+      "name": "Android Türkiye"
+    },
+    {
       "description": "AnkaraPHP grubu olarak her ayın ilk cumartesi günü meetuplar yapıyoruz. PHP ve PHP çevresindeki teknolojilerle ilgilenen, ilgilenmiş ya da ilgilenmek isteyenleri bir araya getiriyoruz. ",
       "links": {
         "facebook": "https://www.facebook.com/groups/herayinilkcumartesi/?ref=bookmarks",
