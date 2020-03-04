@@ -9,6 +9,11 @@ Açık kaynak topluluk rehberi verisi ile oluşturmuş, açık kaynak flutter mo
 ## Ekran Görüntüsü
 
 <img height="480px" src="assets/1.png">  <img height="480px" src="assets/2.png">
+
 ## Contributing
 
 Uygulamada değiştirmek istediğiniz bir kısım varsa forklayıp, PR göndererek yardımcı olabilirsiniz.
+
+## Uygulama Arayüzü
+
+Renkler ve Font - [Pinterest](https://tr.pinterest.com/pin/296041375495451936/)
