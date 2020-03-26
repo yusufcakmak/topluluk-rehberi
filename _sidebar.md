@@ -40,7 +40,7 @@
 * [PaüSiber](/community/pausiber.md)
 * [Python Istanbul](/community/python-istanbul.md)
 * [R-Ladies Istanbul](/community/r-ladies-istanbul.md)
-* [RE:CODED](/community/re:coded.md)
+* [RE-CODED](/community/re-coded.md)
 * [Ruby Türkiye](/community/ruby-turkiye.md)
 * [Sakarya Coders](/community/sakarya-coders.md)
 * [Serverless Turkey](/community/serverless-turkey.md)

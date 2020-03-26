@@ -78,13 +78,15 @@
       "name": "BTG DAY"
     },
     {
-      "description": "2007 yılında kurulan BAU Yazılım ve Bilişim Kulübü'nün amacı, bilişim sektörüyle öğrencileri henüz üniversitedeyken buluşturarak bilişim dünyasına ilgi duyan her kesimden öğrencinin teknik ve kişisel gelişimlerine katkıda bulunmak ve öğrencilerin sektör çevrelerini tanımasına olanak sağlamaktır.",
+      "description": "<p align=\"center\"> <img alt=\"BAU Software & IT Club\"\n      src=\"https://user-images.githubusercontent.com/602600/77206729-b5aac700-6b08-11ea-921d-cd2a9c397fac.png\">\n</p> <p>\n    2007 yılında kurulan BAU Yazılım ve Bilişim Kulübü'nün amacı, bilişim\n    sektörüyle öğrencileri henüz üniversitedeyken buluşturarak bilişim\n    dünyasına ilgi duyan her kesimden öğrencinin teknik ve kişisel\n    gelişimlerine katkıda bulunmak ve öğrencilerin sektör çevrelerini\n    tanımasına olanak sağlamaktır.\n</p> <p>\n    Gönüllü öğrencilerle geliştirilen projelere destek vermektedirler. Örneğin\n    \n    <br/>\n    <br/>\n    [Kutup Yıldızı](https://github.com/bau-global/bau-pole-star-club-management-2010)\n</p> <p>\n    Düzenledikleri etkinlikleri paylaştıkları blog sayfasının kaynak kodlarını Open Source olarak GitHub üzerinden\n    yayınlamaktadırlar.\n    Benzer blog sayfasını oluşturmak isteyen kulüpler de bu projeyi FORK yaparak kullanabilirler.\n    \n    <br/>\n    <br/>\n    [Blog](https://github.com/bau-global/bau-software-it-club-blog)\n</p> <p>\n    Gönüllü öğrenciler, üniversitemizdeki bir çok laboratuvarda yapılan çalışmalarda yer alma fırsatı yakalamaktadır. \n    Örneğin, psikoloji alanında araştırmalarda yer alabilirsiniz. \n    Bu alanda kullanılan bazı program ve diller şunlardır: C#, Python ve Stim, Curry, Scan. Masaüstü ve web uygulamaları\n    geliştirmenin yanında EEG gibi donanımlarla low-level iletişim becerileri içeren ürünler de geliştirilmektedir.\n    \n    <br/>\n    <br/>\n    [Psikoloji Laboratuvarı](http://brainlab.bahcesehir.edu.tr/Default-En.html)\n</p> <p>\n    Etkinliklerde ve iletişimlerde kullanılmak üzere bir çok dijital ve baskılı ürün hazırlamıştır.\n    Örneğin, kartvizit, antetli kağıt ve klasör, roll up, sticker, etkinlik yaka kartı. Bu tasarımların\n    kaynak dosyalarını .psd .ai şeklinde açık kaynak olarak paylaşmaktadırlar. Böylece kendi kulübüne de\n    benzer tasarımları yapmak isteyen kişilere başlangıç noktası oluşturmuşturlar.\n    \n    <br/>\n    <br/>\n    [Kurumsal Kimlik](https://github.com/bau-global/bau-software-it-club-branding)\n</p>",
       "links": {
+        "web sitesi": "https://yazilimbilisim.com",
+        "github sayfası": "https://github.com/bau-global",
+        "instagram": "https://www.instagram.com/bauyazilim",
+        "twitter": "https://twitter.com/buyabi",
         "facebook group": "https://www.facebook.com/groups/buyabi",
         "facebook page": "https://facebook.com/pg/buyabi/about",
-        "instagram": "https://www.instagram.com/bauyazilim",
-        "linkedin": "https://www.linkedin.com/groups/4214425/",
-        "twitter": "https://twitter.com/buyabi"
+        "linkedin": "https://www.linkedin.com/groups/4214425/"
       },
       "name": "Bahçeşehir Üniversitesi Yazılım ve Bilişim Kulübü"
     },
@@ -390,7 +392,7 @@
         "twitter": "https://twitter.com/recodedofficial",
         "website": "https://www.re-coded.com"
       },
-      "name": "RE:CODED"
+      "name": "RE-CODED"
     },
     {
       "description": "Türkiye'deki Ruby programcıları ve Ruby severler topluluğudur. Ruby ile program yazan ve ilgilenen herkesi bir araya getirmek ve belli bir bilinç oluşturmak adına çalışmaktadır.",
