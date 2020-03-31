@@ -659,7 +659,7 @@ communities:
       meetup: 'https://www.meetup.com/IstanbulPHP/'
       twitter: 'https://twitter.com/istanbulphp'
     name: İstanbul PHP
-- description: >-
+  - description: >-
       MaviDurak-IO, yazılım sektörü çalışanları ve Sakarya Üniversitesi‘nde öğrenim 
       gören öğrenciler tarafından Sakarya’da kurulmuş olan bir yazılım topluluğudur. 
       Yazılım sektöründeki gelişmeleri yakından takip etmek, yeni bakış açıları keşfetmek, 
