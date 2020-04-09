@@ -33,6 +33,7 @@
 * [Kanvas Tasarım Topluluğu](/community/kanvas-tasarim-toplulugu.md)
 * [Kocaeli Üniversitesi Bilgisayar Kulübü](/community/kocaeli-universitesi-bilgisayar-kulubu.md)
 * [Kodluyoruz](/community/kodluyoruz.md)
+* [MaviDurak-IO](/community/mavidurak-io.md)
 * [Mobile Monday Ankara](/community/mobile-monday-ankara.md)
 * [Mustafa Akgül Özgür Yazılım Yaz Kampı](/community/mustafa-akgul-ozgur-yazilim-yaz-kampi.md)
 * [NSIstanbul](/community/nsistanbul.md)

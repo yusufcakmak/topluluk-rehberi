@@ -325,6 +325,15 @@
       "name": "Kodluyoruz"
     },
     {
+      "description": "MaviDurak-IO, yazılım sektörü çalışanları ve Sakarya Üniversitesi‘nde öğrenim  gören öğrenciler tarafından Sakarya’da kurulmuş olan bir yazılım topluluğudur.  Yazılım sektöründeki gelişmeleri yakından takip etmek, yeni bakış açıları keşfetmek,  öğrendiklerimizi paylaşabilmek ve bildiklerimizi sorgulayabilmek amacıyla bir aradayız.  Bu birlikteliğimizi güzel dostluklar ile pekiştirerek, bildiklerimizin üzerine koyabilmek  ve daha fazlasını üretebilmek hedefini paylaşıyoruz. MaviDurak-IO ismi, Sakarya Üniversitesi öğrencilerinin yoğun olarak yaşadığı, Serdivan  ilçesinin Mavi Durak bölgesinden esinlenilmiştir. Topluluk kurucuları ilk olarak Mavi  Durak’ta bir araya gelmiş ve bir hayal olarak çıktıkları bu yolda MaviDurak-IO’ya  hayat vermişlerdir.",
+      "links": {
+        "kommunity": "https://kommunity.com/mavidurakio",
+        "twitter": "https://twitter.com/mavidurakio",
+        "website": "https://mavidurak.github.io"
+      },
+      "name": "MaviDurak-IO"
+    },
+    {
       "description": "Her ayın ilk Pazartesi günü Mobili konuşmak için Ankara'da bir araya geliyoruz. Seni de bekleriz.",
       "links": {
         "twitter": "https://twitter.com/momoankara"
